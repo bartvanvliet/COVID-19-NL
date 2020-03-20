@@ -1,5 +1,5 @@
 import * as fs from 'fs';
-import * as moment from 'moment';
+import * as moment from 'moment-timezone';
 
 const baseFolder = process.env.BASE_FOLDER || 'Municipalities';
 
@@ -27,7 +27,7 @@ const folders: { [key in GeneratorTypes]: string } = {
  * Generates current date strings
  */
 export function currentDate() {
-    const date = moment();
+    const date = moment.tz('Europe/Amsterdam');
     const today = date.format('DD-MM-YYYY');
     const time = date.format('HH:mm:ss');
 

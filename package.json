@@ -15,6 +15,7 @@
     "csvtojson": "^2.0.10",
     "dotenv": "^8.2.0",
     "moment": "^2.24.0",
+    "moment-timezone": "^0.5.28",
     "simple-git": "^1.132.0",
     "typescript": "^3.8.3"
   },
@@ -23,6 +24,7 @@
     "@types/cheerio": "^0.22.17",
     "@types/cron": "^1.7.2",
     "@types/csvtojson": "^1.1.5",
-    "@types/moment": "^2.13.0"
+    "@types/moment": "^2.13.0",
+    "@types/moment-timezone": "^0.5.12"
   }
 }
