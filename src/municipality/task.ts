@@ -35,7 +35,6 @@ export async function triggerMunicipalityUpdate() {
     write(todayFile('csv', today), fullCsv);
     write(typeLatest('csv'), fullCsv);
 
-    console.log(fullCsvInternational)
     dateFolderCheck('international-csv', today);
     write(timeFile('international-csv', today, time), fullCsvInternational);
     write(todayFile('international-csv', today), fullCsvInternational);
