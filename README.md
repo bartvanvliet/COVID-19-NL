@@ -75,6 +75,10 @@ cp example-dev.env .env
 yarn build:watch
 ```
 
+After that open the folder with your favorite editor. 
+
+To start scraper `yarn start` or if you would like to regenerate the historical data `yarn start:historical`
+
 ## Sources
 
 - [Coronavirus Map for Netherlands per Municipality](https://www.rivm.nl/coronavirus-kaart-van-nederland-per-gemeente)
