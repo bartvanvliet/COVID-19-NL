@@ -1561,6 +1561,13 @@
     "GemiddeldOverBev": 5.6
   },
   {
+    "Aantal": 29,
+    "BevAant": 0,
+    "Gemeente": "Onbekend",
+    "Gemnr": -1,
+    "GemiddeldOverBev": 0
+  },
+  {
     "Aantal": 0,
     "BevAant": 29704,
     "Gemeente": "Oost Gelre",
