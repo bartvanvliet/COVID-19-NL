@@ -7,6 +7,7 @@
     4. [JSON](#json)
 2. [GeoJSON](#geojson-formats)
 3. [Contributing](#contributing)
+4. [Sources](#sources)
 
 ## Overview
 
