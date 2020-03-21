@@ -1,8 +1,7 @@
-import { folder, GeneratorTypes, timeFile } from './folder-generators';
+import { folder, GeneratorTypes, timeFile } from '../municipality/folder-generators';
 import * as fs from 'fs';
 import * as path from 'path';
-import { write, writeJson } from './writers';
-
+import { writeJson } from './writers';
 
 export function updateFileIndex() {
     updateFileIndexForType('csv');

@@ -1,5 +1,6 @@
 require('dotenv').config();
 
+import { triggerHistoryUpdate } from './history/task';
 import { triggerMunicipalityUpdate } from './municipality/task';
 import { update } from './update';
 import { CronJob } from 'cron';
@@ -30,5 +31,6 @@ municipalityJob2.start();
 console.log('First trigger', municipalityJob.nextDate().toString());
 
 if ( process.env.ENV === 'dev' || process.env.FORCE_TRIGGER === 'true' ) {
-    municipalityJob.fireOnTick();
+    // municipalityJob.fireOnTick();
+    triggerHistoryUpdate();
 }

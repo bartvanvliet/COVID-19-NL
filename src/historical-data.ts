@@ -10,9 +10,8 @@ import {
     format,
     formatDate,
     timeFile,
-    todayFile,
-    typeLatest
-} from './util/folder-generators';
+    todayFile
+} from './municipality/folder-generators';
 import { calculateAverageOverPopulation } from './util/math';
 import { appDir, write, writeJson } from './util/writers';
 

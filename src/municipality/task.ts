@@ -1,4 +1,4 @@
-import { currentDate, dateFolderCheck, todayFile, timeFile, typeLatest } from '../util/folder-generators';
+import { currentDate, dateFolderCheck, todayFile, timeFile, typeLatest } from './folder-generators';
 import { write, writeJson } from '../util/writers';
 import { get } from './scraper';
 import { parse } from './parser';
