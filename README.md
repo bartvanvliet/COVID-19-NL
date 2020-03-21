@@ -1,15 +1,15 @@
 # COVID-19 Scraper for NL
 
 ## Table of Contents
-1. [Overview](#overview)
-    2. [International CSV](#international-csv)
-    3. [CSV](#csv)
-    4. [JSON](#json)
+1. [Scraper](#scraper)
+    1. [International CSV](#international-csv)
+    2. [CSV](#csv)
+    3. [JSON](#json)
 2. [GeoJSON](#geojson-formats)
 3. [Contributing](#contributing)
 4. [Sources](#sources)
 
-## Overview
+## Scraper
 
 The goal is simple get as many historical data for the COVID-19 virus spread in the Netherlands. Currently only the "very sick" are being tested in the Netherlands.
 
