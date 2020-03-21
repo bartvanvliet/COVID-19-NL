@@ -14,7 +14,7 @@ async function municipalityJobTrigger() {
         await update(git, today, time);
     }
 
-    console.log('Next trigger', municipalityJob.nextDate());
+    console.log('Next trigger', municipalityJob.nextDate().toString());
 }
 
 const municipalityJob = new CronJob('0 */2 * * *', () => municipalityJobTrigger(), null, true, 'Europe/Amsterdam');
@@ -24,7 +24,7 @@ municipalityJob.start();
 const municipalityJob2 = new CronJob('30 14 * * *', () => municipalityJobTrigger(), null, true, 'Europe/Amsterdam');
 municipalityJob2.start();
 
-console.log('First trigger', municipalityJob.nextDate());
+console.log('First trigger', municipalityJob.nextDate().toString());
 
 if ( process.env.ENV === 'dev' || process.env.FORCE_TRIGGER === 'true' ) {
     municipalityJob.fireOnTick();
