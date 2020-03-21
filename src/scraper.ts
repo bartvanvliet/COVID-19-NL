@@ -21,6 +21,6 @@ municipalityJob.start();
 
 console.log('First trigger', municipalityJob.nextDate());
 
-if(process.env.ENV === 'dev') {
+if(process.env.ENV === 'dev' || process.env.FORCE_TRIGGER === 'true') {
     municipalityJob.fireOnTick()
 }
