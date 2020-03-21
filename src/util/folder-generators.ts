@@ -3,6 +3,10 @@ import * as moment from 'moment-timezone';
 
 const baseFolder = process.env.BASE_FOLDER || 'Municipalities';
 
+export const dateFormat = 'MM-DD-YYYY';
+export const timeFormat = 'HH:mm:ss';
+export const format = `${dateFormat} ${timeFormat}`;
+
 export type GeneratorTypes = 'csv' | 'json' | 'international-csv';
 
 /**
@@ -24,17 +28,28 @@ const folders: { [key in GeneratorTypes]: string } = {
 };
 
 /**
+ * Formats date in the right format
+ * @param date
+ */
+export function formatDate(date: moment.Moment) {
+    const today = date.format(dateFormat);
+    const time = date.format(timeFormat);
+
+    return {
+        today,
+        time
+    };
+}
+
+/**
  * Generates current date strings
  */
 export function currentDate() {
     const date = moment.tz('Europe/Amsterdam');
-    const today = date.format('DD-MM-YYYY');
-    const time = date.format('HH:mm:ss');
 
     return {
         date,
-        today,
-        time
+        ...formatDate(date)
     };
 }
 
@@ -42,7 +57,7 @@ export function currentDate() {
  * e.g /Municipalities/csv
  * @param type
  */
-export const folder = (type: GeneratorTypes) => `${baseFolder}/${folders[type]}`;
+export const folder = (type: GeneratorTypes) => `${baseFolder}/${folders[ type ]}`;
 
 /**
  * e.g /Municipalities/csv/20-03-2020
@@ -64,7 +79,7 @@ export const timeFile = (
     type: GeneratorTypes,
     today: string,
     time: string
-) => `${dateFolder(type, today)}/${time}.${fileExtensions[type]}`;
+) => `${dateFolder(type, today)}/${time}.${fileExtensions[ type ]}`;
 
 /**
  * e.g /Municipalities/csv/20-03-2020-latest.csv
@@ -74,14 +89,17 @@ export const timeFile = (
 export const todayFile = (
     type: GeneratorTypes,
     today: string
-) => `${folder(type)}/${today}-latest.${fileExtensions[type]}`;
+) => `${folder(type)}/${today}-latest.${fileExtensions[ type ]}`;
 
 /**
  * e.g /Municipalities/latest.csv
  * @param type
  * @param prefix
  */
-export const typeLatest = (type: GeneratorTypes, prefix: string = '') => `${baseFolder}/${prefix}latest.${fileExtensions[type]}`;
+export const typeLatest = (
+    type: GeneratorTypes,
+    prefix: string = ''
+) => `${baseFolder}/${prefix}latest.${fileExtensions[ type ]}`;
 
 /**
  * Checks folder if exists and if not, creates it

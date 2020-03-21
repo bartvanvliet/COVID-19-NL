@@ -1,0 +1,356 @@
+GemeentecodeGM,Gemeentenaam,Grote gemeente,Inwonertal,Provincienaam,COVID 27-02,COVID 28-02,COVID 29-02,COVID 01-03,COVID 02-03,COVID 03-03,COVID 04-03,COVID 05-03,COVID 06-03,COVID 07-03,COVID 08-03,COVID 09-03,COVID 10-03,COVID 11-03,COVID 12-03,COVID 13-03,COVID 14-03,COVID 15-03,COVID 16-03,COVID 17-03,COVID 18-03,COVID 19-03,COVID 20-03,Aantal per 100.000 inwoners,Toename in 24 uur
+GM0755,Boekel,Nee,10588,Noord-Brabant,,,,,,,,,,,1,1,2,7,8,11,12,12,14,14,19,20,25,236.10,5
+GM0856,Uden,Nee,41782,Noord-Brabant,,,,,,,1,1,2,6,7,12,13,18,21,25,28,33,43,49,53,60,71,169.90,11
+GM1685,Landerd,Nee,15529,Noord-Brabant,,,,,,,,,,,1,2,1,2,2,4,5,5,10,14,16,18,20,128.80,2
+GM0277,Rozendaal,Nee,1654,Gelderland,,,,,,,,,,,,,,,,,,1,1,1,2,2,2,120.90,0
+GM1721,Bernheze,Nee,30806,Noord-Brabant,,,,,,,,,,1,1,2,2,2,4,13,15,16,19,20,26,30,37,120.10,7
+GM1652,Gemert-Bakel,Nee,30447,Noord-Brabant,,,,,,,,1,1,1,1,1,2,4,7,11,13,16,20,25,26,31,36,118.20,5
+GM1894,Peel en Maas,Nee,43311,Limburg,,,,,,,,,,,,1,1,3,4,8,10,14,19,31,36,41,49,113.10,8
+GM1948,Meierijstad,Nee,80815,Noord-Brabant,,,,,,,,,,1,4,10,11,13,18,25,30,34,42,49,60,72,81,100.20,9
+GM1702,Sint Anthonis,Nee,11606,Noord-Brabant,,,,,,,,,,,,,,,,,2,2,3,4,5,8,10,86.20,2
+GM0758,Breda,Ja,183873,Noord-Brabant,,,,,,,,,2,2,16,19,27,32,42,53,64,71,86,96,105,113,121,65.80,8
+GM0788,Haaren,Nee,14195,Noord-Brabant,,,,,,,,,,,,2,2,6,6,7,7,7,7,7,9,9,9,63.40,0
+GM1883,Sittard-Geleen,Nee,92661,Limburg,,,,,,,1,3,4,4,7,8,13,20,20,23,35,37,38,42,51,51,58,62.60,7
+GM0855,Tilburg,Ja,217259,Noord-Brabant,,,,1,1,1,3,4,4,10,12,27,29,42,50,67,68,68,84,88,95,119,133,61.20,14
+GM1723,Alphen-Chaam,Nee,10149,Noord-Brabant,,,,,,,,,,,,,,,,,1,1,2,3,6,6,6,59.10,0
+GM1945,Berg en Dal,Nee,34798,Gelderland,,,,,,,,,,,,,1,3,3,5,6,6,10,14,14,18,20,57.50,2
+GM0809,Loon op Zand,Nee,23327,Noord-Brabant,1,1,3,3,4,5,5,6,8,7,7,7,7,7,6,7,7,7,7,8,9,11,13,55.70,2
+GM1954,Beekdaelen,Nee,35727,Limburg,,,,,,,,1,1,2,2,4,5,8,8,8,9,12,13,15,18,18,19,53.20,1
+GM1719,Drimmelen,Nee,27150,Noord-Brabant,,,,,,,,,,,,,,1,3,5,5,5,7,11,12,13,13,47.90,0
+GM0965,Simpelveld,Nee,10516,Limburg,,,,,,,,2,2,2,2,2,2,2,2,2,2,3,3,4,5,5,5,47.50,0
+GM0785,Goirle,Nee,23793,Noord-Brabant,,,,,,,,,,,1,4,4,6,6,6,6,6,9,9,9,11,11,46.20,0
+GM0935,Maastricht,Ja,121565,Limburg,,,,,,,,1,2,3,4,6,7,8,8,10,16,21,24,33,41,42,56,46.10,14
+GM0824,Oisterwijk,Nee,26140,Noord-Brabant,,,,,,,,1,1,3,3,3,3,4,5,6,6,6,9,10,10,10,12,45.90,2
+GM1640,Leudal,Nee,35681,Limburg,,,,,,,,,,,,1,2,3,4,4,6,6,7,8,11,13,16,44.80,3
+GM0252,Heumen,Nee,16486,Gelderland,,,,,,,,,,,,,,,,,,2,2,3,5,6,7,42.50,1
+GM0310,De Bilt,Nee,42824,Utrecht,,,,,,,,2,3,6,6,6,6,10,11,11,11,12,13,15,16,16,18,42.00,2
+GM0845,Sint-Michielsgestel,Nee,28991,Noord-Brabant,,,,,,,,1,2,3,5,5,5,5,5,5,6,6,8,8,10,10,12,41.40,2
+GM0848,Son en Breugel,Nee,16904,Noord-Brabant,,,,,,,,,,,,,,1,1,2,2,2,4,4,4,5,7,41.40,2
+GM0946,Nederweert,Nee,17001,Limburg,,,,,,,,,,,,,,,,1,3,3,3,5,7,7,7,41.20,0
+GM0852,Waterland,Nee,17315,Noord-Holland,,,,,,,,,,,1,1,1,1,1,1,1,2,3,3,4,7,7,40.40,0
+GM0762,Deurne,Nee,32362,Noord-Brabant,,,,,,,,,,,1,1,1,3,3,3,3,4,5,8,8,10,13,40.20,3
+GM1896,Zwartewaterland,Nee,22503,Overijssel,,,,,,,,,,,,,,,,2,2,2,2,4,4,5,9,40.00,4
+GM1706,Cranendonck,Nee,20440,Noord-Brabant,,,,,,,,,,,,,,1,1,2,2,2,2,5,6,6,8,39.10,2
+GM0828,Oss,Nee,91451,Noord-Brabant,,,,,1,1,1,1,1,1,1,1,1,2,3,3,4,5,11,14,20,26,35,38.30,9
+GM0109,Coevorden,Nee,35483,Drenthe,,,,1,2,2,2,3,3,7,7,9,11,11,11,11,11,11,11,11,12,12,13,36.60,1
+GM0415,Landsmeer,Nee,11488,Noord-Holland,,,,,,,,,,1,1,1,1,1,2,2,2,3,3,3,3,3,4,34.80,1
+GM1959,Altena,Nee,55386,Noord-Brabant,,,,1,1,4,3,4,4,4,4,4,4,4,5,8,9,10,12,12,15,19,19,34.30,0
+GM0777,Etten-Leur,Nee,43774,Noord-Brabant,,,,,,,,,,,1,1,3,5,5,6,7,8,10,12,13,14,15,34.30,1
+GM0296,Wijchen,Nee,40951,Gelderland,,,,,,,,,,,1,1,1,1,2,3,3,4,5,6,8,8,14,34.20,6
+GM1774,Dinkelland,Nee,26350,Overijssel,,,,,,,,,,2,2,2,2,2,1,3,4,4,5,5,6,8,9,34.20,1
+GM0321,Houten,Nee,49911,Utrecht,,,,,1,1,1,9,9,13,13,13,13,13,13,13,13,13,13,13,14,17,17,34.10,0
+GM0233,Ermelo,Nee,26858,Gelderland,,,,,,,,,,,,1,1,1,3,4,5,7,8,8,8,8,9,33.50,1
+GM0523,Hardinxveld-Giessendam,Nee,18051,Zuid-Holland,,,,,,,1,3,4,4,4,4,5,5,5,5,5,5,5,5,5,5,6,33.20,1
+GM0779,Geertruidenberg,Nee,21515,Noord-Brabant,,,,,,,,,,,,,,1,1,1,1,1,3,5,7,7,7,32.50,0
+GM0879,Zundert,Nee,21612,Noord-Brabant,,,,,,,,,,,1,1,1,2,2,3,3,3,3,4,6,6,7,32.40,1
+GM0986,Voerendaal,Nee,12452,Limburg,,,,,,,,,,,,,,,,,,,,1,3,3,4,32.10,1
+GM0786,Grave,Nee,12483,Noord-Brabant,,,,,,,,,,,,,,,,,,,,0,1,2,4,32.00,2
+GM1734,Overbetuwe,Nee,47543,Gelderland,,,,,,,,,,,,,,,,,4,6,8,9,9,11,15,31.60,4
+GM0770,Eersel,Nee,19110,Noord-Brabant,,,,,,,,,,,,,,,1,1,2,2,2,3,4,4,6,31.40,2
+GM0888,Beek,Nee,15929,Limburg,,,,,,,,,,,,,,,,,,3,3,3,3,3,5,31.40,2
+GM0867,Waalwijk,Nee,48240,Noord-Brabant,,,,,,,,3,3,3,5,5,5,6,6,9,8,8,10,11,12,13,15,31.10,2
+GM0268,Nijmegen,Ja,176731,Gelderland,,,,,,,,1,1,2,2,3,3,5,6,8,9,12,17,31,41,48,55,31.10,7
+GM0209,Beuningen,Nee,25882,Gelderland,,,,,,,,1,1,1,3,3,3,3,3,3,4,4,5,6,6,6,8,30.90,2
+GM0431,Oostzaan,Nee,9757,Noord-Holland,,,,,,,,,,,,,,,,,,,,1,2,2,3,30.70,1
+GM0865,Vught,Nee,26396,Noord-Brabant,,,,,,,,,,,,1,1,1,2,2,2,2,3,6,7,8,8,30.30,0
+GM0342,Soest,Nee,46194,Utrecht,,,,,,,,4,6,7,7,7,8,8,8,8,8,8,10,11,12,13,14,30.30,1
+GM1728,Bladel,Nee,20175,Noord-Brabant,,,,,,,,,,,,,,,,,1,1,1,1,2,3,6,29.70,3
+GM0274,Renkum,Nee,31302,Gelderland,,,,,,,,,1,1,5,5,5,7,7,7,7,8,8,8,8,8,9,28.80,1
+GM0344,Utrecht,Ja,352866,Utrecht,,,,,2,2,2,6,8,11,13,13,14,18,25,26,30,38,48,60,69,83,101,28.60,18
+GM0794,Helmond,Nee,91524,Noord-Brabant,,,,,1,4,4,4,4,4,5,7,11,12,14,16,17,17,17,19,20,22,26,28.40,4
+GM1924,Goeree-Overflakkee,Nee,49611,Zuid-Holland,,,,,,,,,,,,,,,,1,1,2,4,5,7,8,14,28.20,6
+GM0388,Enkhuizen,Nee,18507,Noord-Holland,,,,,,,,,,,,,,,,,,,1,1,1,5,5,27.00,0
+GM0246,Heerde,Nee,18546,Gelderland,,,,,,,,,,,,,,,,,,,2,3,3,4,5,27.00,1
+GM1659,Laarbeek,Nee,22333,Noord-Brabant,,,,,,,,,,,,,,,,1,1,1,1,1,2,4,6,26.90,2
+GM0221,Doesburg,Nee,11148,Gelderland,,,,,,,,,,,,,,,,,,1,1,1,1,1,3,26.90,2
+GM0753,Best,Nee,29821,Noord-Brabant,,,,,,,,1,1,1,2,2,2,3,3,3,3,3,4,5,6,6,8,26.80,2
+GM0376,Blaricum,Nee,11202,Noord-Holland,,,,,,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,2,3,26.80,1
+GM0225,Druten,Nee,18797,Gelderland,,,,,,,,,,,,,,,,1,3,5,5,5,5,5,5,26.60,0
+GM0784,Gilze en Rijen,Nee,26431,Noord-Brabant,,,,,,,,,,,,,,,,1,1,1,1,1,3,5,7,26.50,2
+GM0798,Hilvarenbeek,Nee,15334,Noord-Brabant,,,,,,,,,,,,,,1,3,5,5,5,4,4,4,4,4,26.10,0
+GM1507,Horst aan de Maas,Nee,42291,Limburg,,,,,,,,,,,,,,,,2,3,3,5,8,8,10,11,26.00,1
+GM0847,Someren,Nee,19322,Noord-Brabant,,,,,,,,,,,,,,,,,1,1,1,2,3,3,5,25.90,2
+GM0957,Roermond,Nee,58209,Limburg,,,,,,,,,,,1,1,1,1,1,1,2,2,2,4,6,13,15,25.80,2
+GM0397,Heemstede,Nee,27286,Noord-Holland,,,,,,,,,,,1,1,1,1,2,2,2,2,5,5,5,5,7,25.70,2
+GM1658,Heeze-Leende,Nee,15964,Noord-Brabant,,,,,,,,,,,,,,1,1,1,1,1,2,3,4,4,4,25.10,0
+GM1978,Molenlanden,Nee,43858,Zuid-Holland,,,,,,,,,,,,,,,,,,1,2,3,7,9,11,25.10,2
+GM0796,'s-Hertogenbosch,Ja,154205,Noord-Brabant,,,,,,,,,,2,2,3,4,5,8,11,14,14,20,24,30,35,38,24.60,3
+GM0579,Oegstgeest,Nee,24426,Zuid-Holland,,,,,,,,,,1,1,1,1,2,2,2,4,4,4,4,4,5,6,24.60,1
+GM0303,Dronten,Nee,40815,Flevoland,,,,,,,,,,,,,,,1,2,3,6,7,7,8,9,10,24.50,1
+GM0994,Valkenburg aan de Geul,Nee,16470,Limburg,,,,,,,,,,,,,,,,,,,1,2,2,2,4,24.30,2
+GM0362,Amstelveen,Nee,90838,Noord-Holland,,,,,,,,1,1,1,1,2,2,2,2,3,3,3,4,6,7,13,22,24.20,9
+GM0184,Urk,Nee,20776,Flevoland,,,,,,,,,,,,,,,,,,,,0,1,4,5,24.10,1
+GM0983,Venlo,Ja,101603,Limburg,,,,,,,,,,,,1,1,1,2,2,3,4,6,8,12,21,24,23.60,3
+GM0353,IJsselstein,Nee,34160,Utrecht,,,,,,,,,,,1,1,1,1,1,1,1,2,4,6,7,8,8,23.40,0
+GM1903,Eijsden-Margraten,Nee,25658,Limburg,,,,,,,,,,,,,,,,,1,3,4,4,4,4,6,23.40,2
+GM0907,Gennep,Nee,17071,Limburg,,,,,,,,,,,,,,,,1,1,1,1,1,2,4,4,23.40,0
+GM0351,Woudenberg,Nee,13166,Utrecht,,,,,,,,,,,,,,1,1,1,1,1,1,1,2,2,3,22.80,1
+GM1621,Lansingerland,Nee,61601,Zuid-Holland,,,,,,,,,1,2,2,3,4,4,4,4,4,5,5,7,10,13,14,22.70,1
+GM0448,Texel,Nee,13547,Noord-Holland,,,,,,,,,,,,,,,,,,,,0,0,2,3,22.10,1
+GM1711,Echt-Susteren,Nee,31638,Limburg,,,,,,,,,,,,,,,,,,,,2,6,6,7,22.10,1
+GM0703,Reimerswaal,Nee,22678,Zeeland,,,,,,,,,,,,,,,1,1,1,1,2,2,3,4,5,22.00,1
+GM1960,West Betuwe,Nee,50697,Gelderland,,,,,,,,1,1,2,2,2,2,2,2,3,3,3,3,6,6,8,11,21.70,3
+GM0826,Oosterhout,Nee,55616,Noord-Brabant,,,,,,,,,,,,1,1,1,1,3,4,5,6,8,9,9,12,21.60,3
+GM0437,Ouder-Amstel,Nee,13916,Noord-Holland,,,,,,,,,,,,,,,,,,,,2,3,3,3,21.60,0
+GM0899,Brunssum,Nee,28103,Limburg,,,,,,,,,,,,,,,,,,,,2,4,4,6,21.40,2
+GM0269,Oldebroek,Nee,23598,Gelderland,,,,,,,,,,,,,,,,1,1,1,2,2,5,5,5,21.20,0
+GM1641,Maasgouw,Nee,23716,Limburg,,,,,,,,,,,,,,,,,1,2,2,3,4,5,5,21.10,0
+GM0352,Wijk bij Duurstede,Nee,23762,Utrecht,,,,,,,,,1,1,1,1,1,1,2,2,2,3,3,4,4,4,5,21.00,1
+GM0668,West Maas en Waal,Nee,19076,Gelderland,,,,,,,,1,1,1,1,1,1,1,2,2,2,3,3,3,3,3,4,21.00,1
+GM1740,Neder-Betuwe,Nee,24034,Gelderland,,,,,,,,,,,,1,1,1,1,3,3,4,4,4,4,4,5,20.80,1
+GM0331,Lopik,Nee,14473,Utrecht,,,,,,,,,,,,,,,,,,,1,2,3,3,3,20.70,0
+GM0917,Heerlen,Nee,86832,Limburg,,,,,,,,,,,,,,1,2,2,4,5,6,8,14,15,18,20.70,3
+GM0614,Westvoorne,Nee,14626,Zuid-Holland,,,,,,,,,1,1,1,1,1,1,1,1,2,3,3,3,3,3,3,20.50,0
+GM0307,Amersfoort,Ja,156286,Utrecht,,,,,,,,,,,,,,2,4,4,4,10,18,21,23,30,32,20.50,2
+GM0355,Zeist,Nee,63934,Utrecht,,,,,,,,,,1,1,1,2,3,4,4,4,6,8,12,12,12,13,20.30,1
+GM1926,Pijnacker-Nootdorp,Nee,54331,Zuid-Holland,,,,,,,,2,2,2,2,2,4,5,7,6,6,7,8,10,11,11,11,20.20,0
+GM0971,Stein,Nee,24961,Limburg,,,,,,,,,,,,,,1,1,1,3,3,3,3,4,4,5,20.00,1
+GM0613,Albrandswaard,Nee,25271,Zuid-Holland,,,,,,,,,,,1,1,1,1,1,1,1,1,2,3,4,4,5,19.80,1
+GM1963,Hoeksche Waard,Nee,86656,Zuid-Holland,,,,,,,1,1,1,2,2,2,2,2,1,1,1,2,4,6,8,12,17,19.60,5
+GM0589,Oudewater,Nee,10201,Utrecht,,,,,,,,,,,,,,,,,,1,1,1,1,2,2,19.60,0
+GM0757,Boxtel,Nee,30747,Noord-Brabant,,,,,,,,,,,,,,,1,1,2,2,3,5,5,6,6,19.50,0
+GM1669,Roerdalen,Nee,20615,Limburg,,,,,,,,,,,,,,,,,,,,0,1,1,4,19.40,3
+GM0995,Lelystad,Nee,77893,Flevoland,,,,,,,,,,,,,,1,2,3,5,7,8,10,12,13,15,19.30,2
+GM0214,Buren,Nee,26568,Gelderland,,,,,,,,,,,,,,,1,2,2,2,4,4,4,5,5,18.80,0
+GM0882,Landgraaf,Nee,37591,Limburg,,,,,,,,,,,,,,,1,2,4,4,4,4,7,7,7,18.60,0
+GM0815,Mill en Sint Hubert,Nee,10891,Noord-Brabant,,,,,,,,,,,,,,,,,,1,1,1,1,2,2,18.40,0
+GM0050,Zeewolde,Nee,22309,Flevoland,,,,,,,1,1,1,1,1,1,1,1,1,1,2,2,2,2,3,3,4,17.90,1
+GM0180,Staphorst,Nee,17003,Overijssel,,,,,,,,,,,,,,,1,1,1,1,1,1,1,2,3,17.60,1
+GM1942,Gooise Meren,Nee,57715,Noord-Holland,,,,,,,1,1,2,2,2,2,2,4,3,3,4,4,4,9,9,10,10,17.30,0
+GM0756,Boxmeer,Nee,29065,Noord-Brabant,,,,,,,,,,,,,,,,1,1,1,1,1,2,2,5,17.20,3
+GM0383,Castricum,Nee,35772,Noord-Holland,,,,,,,,,,,,,,,,,4,5,5,5,5,6,6,16.80,0
+GM0175,Ommen,Nee,17813,Overijssel,,,,,,,,,,,,,,,,,1,1,1,1,2,2,3,16.80,1
+GM1581,Utrechtse Heuvelrug,Nee,49515,Utrecht,,,,,,,,,1,1,2,2,2,2,2,2,2,2,3,5,6,8,8,16.20,0
+GM0599,Rotterdam,Ja,644618,Zuid-Holland,,,,,2,1,3,5,9,11,14,14,15,15,15,20,24,25,30,41,58,81,104,16.10,23
+GM1684,Cuijk,Nee,24931,Noord-Brabant,,,,,,,,,,,,,,1,1,2,2,2,2,2,2,4,4,16.00,0
+GM0851,Steenbergen,Nee,25054,Noord-Brabant,,,,,,,,,,,,,,,,,,1,2,2,2,4,4,16.00,0
+GM0275,Rheden,Nee,43640,Gelderland,,,,,,,,,,,,,1,1,1,1,1,1,1,2,3,4,7,16.00,3
+GM0797,Heusden,Nee,44135,Noord-Brabant,,,,,,,,1,1,1,1,1,1,2,2,4,4,4,4,4,5,6,7,15.90,1
+GM0358,Aalsmeer,Nee,31728,Noord-Holland,,,,,,,,,,,,,2,2,2,3,3,3,3,3,3,4,5,15.80,1
+GM0173,Oldenzaal,Nee,31840,Overijssel,,,,,,,,,,,,,,,,,1,1,1,1,2,3,5,15.70,2
+GM0678,Kapelle,Nee,12785,Zeeland,,,,,,,,,,,,,,,,,,,,1,2,2,2,15.60,0
+GM1904,Stichtse Vecht,Nee,64336,Utrecht,,,,,,,,2,3,4,5,5,5,5,5,6,6,7,7,8,9,10,10,15.50,0
+GM0629,Wassenaar,Nee,26211,Zuid-Holland,,,,,,,,,,,,,,,,1,2,2,3,3,3,4,4,15.30,0
+GM0482,Alblasserdam,Nee,20069,Zuid-Holland,,,,,,,,,,,,,,,,,,,,1,1,2,3,14.90,1
+GM0450,Uitgeest,Nee,13528,Noord-Holland,,,,,,,,,,,,,,,,,,,,0,0,0,2,14.80,2
+GM1730,Tynaarlo,Nee,33698,Drenthe,,,,,,,,,,,,,,,,,,,,1,3,4,5,14.80,1
+GM0363,Amsterdam,Ja,862965,Noord-Holland,,,,,,,1,2,5,5,6,6,8,8,11,20,31,31,39,56,61,85,127,14.70,42
+GM0744,Baarle-Nassau,Nee,6847,Noord-Brabant,,,,,,,,,,,,,,,,,,,,0,0,0,1,14.60,1
+GM0375,Beverwijk,Nee,41176,Noord-Holland,,,,,,1,1,2,2,3,4,4,4,4,5,5,5,5,5,6,6,6,6,14.60,0
+GM0302,Nunspeet,Nee,27481,Gelderland,,,,,,,,,,,,1,1,1,1,1,1,1,2,2,3,3,4,14.60,1
+GM0416,Langedijk,Nee,27992,Noord-Holland,,,,,,,,,,,,,,1,1,3,3,4,4,4,4,4,4,14.30,0
+GM0297,Zaltbommel,Nee,28451,Gelderland,,,,,,,1,1,1,1,1,1,1,1,1,1,1,1,1,3,3,3,4,14.10,1
+GM0193,Zwolle,Ja,127497,Overijssel,,,,,,,,,,,1,1,1,2,3,2,3,4,6,8,12,16,18,14.10,2
+GM0183,Tubbergen,Nee,21276,Overijssel,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,1,3,3,14.10,0
+GM1729,Gulpen-Wittem,Nee,14246,Limburg,,,,,,,,,,,,,,,,,,1,2,2,2,2,2,14.00,0
+GM0216,Culemborg,Nee,28555,Gelderland,,,,,,,,1,1,1,1,1,1,1,1,2,2,2,2,4,4,4,4,14.00,0
+GM0148,Dalfsen,Nee,28499,Overijssel,,,,,,,,,,,,,,,,,,1,1,1,1,1,4,14.00,3
+GM0532,Stede Broec,Nee,21706,Noord-Holland,,,,,,,,,,,,,,,,,,,1,1,1,3,3,13.80,0
+GM0984,Venray,Nee,43326,Limburg,,,,,,,,,,,,,,,,,,,,0,1,3,6,13.80,3
+GM0203,Barneveld,Nee,57971,Gelderland,,,,,,,,,,,,,,,,,,2,3,4,5,6,8,13.80,2
+GM1876,Bronckhorst,Nee,36212,Gelderland,,,,,,,,,1,1,2,2,2,2,2,2,2,2,2,2,2,3,5,13.80,2
+GM0439,Purmerend,Nee,80117,Noord-Holland,,,,,,,,,,,,,,1,2,2,2,2,2,2,4,7,11,13.70,4
+GM0513,Gouda,Nee,73181,Zuid-Holland,,,,,,,,,,,,1,1,2,2,2,2,3,4,5,7,9,10,13.70,1
+GM0718,Vlissingen,Nee,44371,Zeeland,,,,,,,,,,,,,,2,2,2,2,2,3,4,4,5,6,13.50,1
+GM0642,Zwijndrecht,Nee,44639,Zuid-Holland,,,,,,,,,,,,,,,,,2,3,3,4,5,6,6,13.40,0
+GM0840,Rucphen,Nee,22572,Noord-Brabant,,,,,,,,,,,,,,,,,,1,1,1,1,2,3,13.30,1
+GM0373,Bergen (NH),Nee,29974,Noord-Holland,,,,,,,,,,,,,,,,,1,1,1,1,2,4,4,13.30,0
+GM0327,Leusden,Nee,30030,Utrecht,,,,,,,,,,,,,,,,,,,1,1,3,4,4,13.30,0
+GM0312,Bunnik,Nee,15192,Utrecht,,,,,,,,,,,,,,,,,,,,0,0,1,2,13.20,1
+GM0654,Borsele,Nee,22800,Zeeland,,,,,,,,,,,,,,1,1,1,1,1,2,2,2,3,3,13.20,0
+GM1930,Nissewaard,Nee,84797,Zuid-Holland,,,,,,,,,,,,,,1,1,1,1,1,1,3,4,7,11,13.00,4
+GM0441,Schagen,Nee,46553,Noord-Holland,,,,,,,,,,,,,1,1,1,2,3,4,4,4,5,6,6,12.90,0
+GM1705,Lingewaard,Nee,46475,Gelderland,,,,,,,,1,1,2,2,2,2,2,2,2,3,3,3,3,4,5,6,12.90,1
+GM0147,Borne,Nee,23210,Overijssel,,,,,,,1,1,1,4,4,4,4,3,2,3,3,3,3,3,3,3,3,12.90,0
+GM0396,Heemskerk,Nee,39164,Noord-Holland,,,,,,,,,,,,,,,,1,1,1,2,2,2,3,5,12.80,2
+GM0377,Bloemendaal,Nee,23410,Noord-Holland,,,,,,,,,1,1,1,1,1,1,1,1,1,1,1,3,3,3,3,12.80,0
+GM0399,Heiloo,Nee,23464,Noord-Holland,,,,,,,,,,,,,,,,2,2,2,3,3,3,3,3,12.80,0
+GM0944,Mook en Middelaar,Nee,7806,Limburg,,,,,,,,,,,,,,,,,,,,0,0,1,1,12.80,0
+GM1714,Sluis,Nee,23386,Zeeland,,,,,,,,,,,,,,,,,,1,2,2,2,2,3,12.80,1
+GM0356,Nieuwegein,Nee,63036,Utrecht,,,,,,,,,,,,,,,,,,1,1,3,4,6,8,12.70,2
+GM1961,Vijfheerenlanden,Nee,55712,Utrecht,,,,,,,,,,1,1,1,1,1,1,2,2,2,3,4,4,7,7,12.60,0
+GM1931,Krimpenerwaard,Nee,56048,Zuid-Holland,,,,,,,,,,,1,1,1,3,3,3,3,4,4,4,4,5,7,12.50,2
+GM0273,Putten,Nee,24198,Gelderland,,,,,,,,,,,,,,,,,,,2,2,2,2,3,12.40,1
+GM0772,Eindhoven,Ja,231642,Noord-Brabant,,,,,,1,1,3,4,4,6,7,8,8,8,12,13,21,21,22,23,24,28,12.10,4
+GM0232,Epe,Nee,33145,Gelderland,,,,,,,,,,,,,,,,,,,2,2,4,4,4,12.10,0
+GM0014,Groningen,Ja,231299,Groningen,,,,,,,,,,,,,,,2,3,6,6,7,7,11,23,28,12.10,5
+GM0748,Bergen op Zoom,Nee,66811,Noord-Brabant,,,,,,,,,,,1,1,1,1,1,1,1,4,4,5,5,6,8,12.00,2
+GM0743,Asten,Nee,16710,Noord-Brabant,,,,,,,,,,,,,,,,,,1,1,2,2,2,2,12.00,0
+GM0484,Alphen aan den Rijn,Ja,110986,Zuid-Holland,,,,,1,1,1,1,1,1,1,1,1,2,3,4,6,6,6,6,9,10,13,11.70,3
+GM1940,De Fryske Marren,Nee,51430,Friesland,,,,,,,,,,,,,,,1,2,2,3,3,3,5,5,6,11.70,1
+GM0866,Waalre,Nee,17247,Noord-Brabant,,,,,,,,1,1,1,1,1,1,1,1,1,1,1,1,1,2,2,2,11.60,0
+GM0299,Zevenaar,Nee,43488,Gelderland,,,,,,,,,,,,,,,,,,,,0,2,3,5,11.50,2
+GM0546,Leiden,Ja,124899,Zuid-Holland,,,,,,,,,,,,,1,1,1,4,4,4,8,8,11,12,14,11.20,2
+GM0861,Veldhoven,Nee,45337,Noord-Brabant,,,,,,,,,,,1,1,1,1,1,1,1,1,1,1,1,2,5,11.00,3
+GM0317,Eemnes,Nee,9113,Utrecht,,,,,,,,,,,,,,,,,,,,0,1,1,1,11.00,0
+GM0928,Kerkrade,Nee,45642,Limburg,,,,,,,,,,,,,,,,,1,2,2,3,3,3,5,11.00,2
+GM0627,Waddinxveen,Nee,28316,Zuid-Holland,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,3,3,10.60,0
+GM0938,Meerssen,Nee,18923,Limburg,,,,,,,,,,,,,,,,,,,1,1,2,2,2,10.60,0
+GM0392,Haarlem,Ja,161265,Noord-Holland,,,,,1,1,1,1,1,1,2,2,1,1,1,4,4,4,6,7,7,10,17,10.50,7
+GM0243,Harderwijk,Nee,47581,Gelderland,,,,,,,,,,,,1,1,1,2,2,2,2,4,4,5,5,5,10.50,0
+GM1674,Roosendaal,Nee,77032,Noord-Brabant,,,,,,,,,,,,,,1,1,2,2,5,6,6,6,7,8,10.40,1
+GM0384,Diemen,Nee,29196,Noord-Holland,,1,3,3,3,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,3,10.30,1
+GM0489,Barendrecht,Nee,48673,Zuid-Holland,,,,,,,,,,,,,,1,1,1,1,3,3,3,3,4,5,10.30,1
+GM1842,Midden-Delfland,Nee,19391,Zuid-Holland,,,,,,,,,,,,,,,,,,,,0,0,1,2,10.30,1
+GM1771,Geldrop-Mierlo,Nee,39595,Noord-Brabant,,,,,,,,,,,,,,,1,2,2,2,3,3,3,4,4,10.10,0
+GM0530,Hellevoetsluis,Nee,40049,Zuid-Holland,,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,4,10.00,3
+GM0622,Vlaardingen,Nee,72404,Zuid-Holland,,,,,,,,,,,,,,1,1,1,1,1,1,2,2,4,7,9.70,3
+GM0632,Woerden,Nee,52197,Utrecht,,,,,,,,,2,2,2,2,2,2,2,2,2,2,2,3,4,4,5,9.60,1
+GM0281,Tiel,Nee,41978,Gelderland,,,,,,,,,,,,1,1,1,2,2,2,3,4,4,4,4,4,9.50,0
+GM0505,Dordrecht,Ja,118654,Zuid-Holland,,,,,,,,,,,,,,,1,1,1,1,1,4,4,8,11,9.30,3
+GM1916,Leidschendam-Voorburg,Nee,75425,Zuid-Holland,,,,,,,,,,1,1,1,2,2,2,3,3,3,4,5,6,6,7,9.30,1
+GM0166,Kampen,Nee,53779,Overijssel,,,,,,,,,,,,,,,,,,,,1,2,2,5,9.30,3
+GM0361,Alkmaar,Ja,108558,Noord-Holland,,,,,,,,,,,,,1,1,1,1,1,1,2,2,5,9,10,9.20,1
+GM0715,Terneuzen,Nee,54589,Zeeland,,,,,,,,,,,,,,,,,1,1,1,2,3,4,5,9.20,1
+GM0717,Veere,Nee,21835,Zeeland,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,2,9.20,1
+GM0534,Hillegom,Nee,21966,Zuid-Holland,,,,,,,,,,,,,,,,,,,,0,1,1,2,9.10,1
+GM0503,Delft,Ja,103163,Zuid-Holland,,,1,1,1,1,1,1,1,1,1,1,1,1,1,2,2,2,2,2,4,5,9,8.70,4
+GM0230,Elburg,Nee,23086,Gelderland,,,,,,,,,,,,,,,,1,1,1,1,1,1,1,2,8.70,1
+GM1735,Hof van Twente,Nee,34940,Overijssel,,,,,,,,,,,,,,,,,,1,1,1,3,3,3,8.60,0
+GM0385,Edam-Volendam,Nee,36099,Noord-Holland,,,,,,,,,,,,,,,,,,,,0,0,3,3,8.30,0
+GM1783,Westland,Ja,108603,Zuid-Holland,,,,,,,,,,,,,,,,,,1,1,3,6,7,9,8.30,2
+GM1690,De Wolden,Nee,24110,Drenthe,,,,,,,,,,,,,,,,,1,1,1,1,1,1,2,8.30,1
+GM0202,Arnhem,Ja,159265,Gelderland,,,,,,,,1,1,1,3,2,2,3,4,4,4,7,7,8,9,10,13,8.20,3
+GM0765,Pekela,Nee,12214,Groningen,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,1,8.20,0
+GM1709,Moerdijk,Nee,36961,Noord-Brabant,,,,,,,,,,,,,,,,1,1,1,1,1,1,2,3,8.10,1
+GM1525,Teylingen,Nee,37061,Zuid-Holland,,,,,,,,,,,,,,,,,,,1,2,2,2,3,8.10,1
+GM0263,Maasdriel,Nee,24693,Gelderland,,,,,,,,,,,1,1,1,,,,,,,1,1,1,2,8.10,1
+GM0610,Sliedrecht,Nee,25026,Zuid-Holland,,,,,,,,,,,,,,,,,,,,1,1,1,2,8.00,1
+GM0988,Weert,Nee,49842,Limburg,,,,,,,,,,,,,,,,,,,,0,0,0,4,8.00,4
+GM0200,Apeldoorn,Ja,162445,Gelderland,,,,,,,,,,,,,,1,2,2,3,3,7,7,10,11,13,8.00,2
+GM0177,Raalte,Nee,37511,Overijssel,,,,,,,,,,,,,,,1,1,1,1,2,3,3,3,3,8.00,0
+GM0664,Goes,Nee,37653,Zeeland,,,,,,,,,,,,1,1,2,2,2,2,2,2,2,3,3,3,8.00,0
+GM0226,Duiven,Nee,25332,Gelderland,,,,,,,,,,,,,,,,1,1,1,1,1,2,2,2,7.90,0
+GM0626,Voorschoten,Nee,25479,Zuid-Holland,,,,,,,,,,,,,,,,,,,,0,1,1,2,7.80,1
+GM0228,Ede,Ja,115710,Gelderland,,,,,,,,,,,,,,,,,,1,2,2,5,5,9,7.80,4
+GM0716,Tholen,Nee,25780,Zeeland,,,,,,,,,,,,,,,,,,1,1,1,2,2,2,7.80,0
+GM0766,Dongen,Nee,26051,Noord-Brabant,,,,,,,,,1,2,3,3,3,4,4,4,5,5,5,5,5,5,2,7.70,-3
+GM0893,Bergen (L),Nee,13140,Limburg,,,,,,,,,,,,,,,,,,,,0,1,1,1,7.60,0
+GM0603,Rijswijk,Nee,53467,Zuid-Holland,,,,,,,,,,,,,,,,,,,1,2,3,3,4,7.50,1
+GM0547,Leiderdorp,Nee,27109,Zuid-Holland,,,,,,,,,,,,,,,,,,,1,1,2,2,2,7.40,0
+GM0889,Beesel,Nee,13519,Limburg,,,,,,,,,,,,,,,,,,,,0,0,0,1,7.40,1
+GM0453,Velsen,Nee,68348,Noord-Holland,,,,,,,,,,,,,,1,1,1,1,1,4,4,4,4,5,7.30,1
+GM0406,Huizen,Nee,41273,Noord-Holland,,,,,,,,,,,1,1,1,2,1,1,1,1,1,1,2,3,3,7.30,0
+GM0118,Hoogeveen,Nee,55662,Drenthe,,,,,,,,,,,,,,,1,1,2,2,2,2,3,3,4,7.20,1
+GM0150,Deventer,Nee,99957,Overijssel,,,,,,,,,,,,,,,,,,1,2,4,5,5,7,7.00,2
+GM0222,Doetinchem,Nee,57555,Gelderland,,,,,,,,,,,,,,,,,,,,0,0,3,4,6.90,1
+GM0451,Uithoorn,Nee,29424,Noord-Holland,,,,,,,,,,,,,,,,,,,,0,1,2,2,6.80,0
+GM0542,Krimpen aan den IJssel,Nee,29376,Zuid-Holland,,,,,,,,,,,,,,,1,1,1,1,1,1,1,2,2,6.80,0
+GM0736,De Ronde Venen,Nee,44059,Utrecht,,,,,,,,,,,,,,,,,,,2,2,2,2,3,6.80,1
+GM0518,'s-Gravenhage,Ja,537833,Zuid-Holland,,,,,,,,,2,2,2,2,3,7,7,8,9,10,14,17,21,27,36,6.70,9
+GM0293,Westervoort,Nee,14944,Gelderland,,,,,,,,,,,,,,,,,,,,0,0,0,1,6.70,1
+GM0086,Opsterland,Nee,29723,Friesland,,,,,,,,,,,,,2,2,2,2,2,2,2,2,2,2,2,6.70,0
+GM1655,Halderberge,Nee,30194,Noord-Brabant,,,,,,,,,,,,,,,,,,,2,2,2,2,2,6.60,0
+GM0858,Valkenswaard,Nee,30910,Noord-Brabant,,,,,,,,,,,,,,,,,,,,0,1,1,2,6.50,1
+GM1911,Hollands Kroon,Nee,47815,Noord-Holland,,,,,,,,,,,,,,,,,,,,0,1,3,3,6.30,0
+GM0072,Harlingen,Nee,15758,Friesland,,,,,,,,,,,,,,,,,,,1,1,1,1,1,6.30,0
+GM0590,Papendrecht,Nee,32290,Zuid-Holland,,,,,,,,,,,,,,,,,,,,0,0,1,2,6.20,1
+GM0164,Hengelo (O),Nee,80683,Overijssel,,,,,,,,,,,,,,,1,1,1,1,3,3,4,4,5,6.20,1
+GM0687,Middelburg,Nee,48544,Zeeland,,,,,,,,,,,,,,,,,,,1,1,2,3,3,6.20,0
+GM0880,Wormerland,Nee,16329,Noord-Holland,,,,,,,,,,,,,,,,,,,,0,0,1,1,6.10,0
+GM0556,Maassluis,Nee,32768,Zuid-Holland,,,,,,,,,,,,,,,,,1,1,1,1,2,2,2,6.10,0
+GM0262,Lochem,Nee,33590,Gelderland,,,,,,,,,,,,,,,,,,,,0,1,1,2,6.00,1
+GM0473,Zandvoort,Nee,17011,Noord-Holland,,,,,,,,,,,,,,,,,1,1,1,1,1,1,1,5.90,0
+GM1676,Schouwen-Duiveland,Nee,33779,Zeeland,,,,,,,,,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2,5.90,0
+GM0501,Brielle,Nee,17182,Zuid-Holland,,,,,,,,,,,,,,,,,,,,0,0,1,1,5.80,0
+GM0163,Hellendoorn,Nee,35808,Overijssel,,,,,,,,,,2,2,2,2,2,2,2,2,2,2,2,2,2,2,5.60,0
+GM0402,Hilversum,Nee,90238,Noord-Holland,,,,,,,,,,,,,,,,,,,1,3,3,3,5,5.50,2
+GM1724,Bergeijk,Nee,18491,Noord-Brabant,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,1,5.40,0
+GM0823,Oirschot,Nee,18623,Noord-Brabant,,,,,,,,,,,,,,,,,,,1,1,1,1,1,5.40,0
+GM0090,Smallingerland,Nee,55938,Friesland,,,,,,,,,,,,,,1,1,1,2,3,3,3,3,3,3,5.40,0
+GM0398,Heerhugowaard,Nee,56742,Noord-Holland,,,,,,,,,,,,,,,,,,1,1,1,2,2,3,5.30,1
+GM0394,Haarlemmermeer,Ja,154235,Noord-Holland,,,,,,,,,,,,,,,,,,1,2,4,4,5,8,5.20,3
+GM0457,Weesp,Nee,19334,Noord-Holland,,,,,,,,,,,,,,,,,,,,0,0,0,1,5.20,1
+GM0289,Wageningen,Nee,38774,Gelderland,,,,,,,,,,,,,,,,,,,,1,1,1,2,5.20,1
+GM1742,Rijssen-Holten,Nee,38300,Overijssel,,,,,,,,,,,,,,,,,,,,0,0,0,2,5.20,2
+GM0606,Schiedam,Nee,77999,Zuid-Holland,,,,,,,,,,,,,,,,,,1,1,1,1,2,4,5.10,2
+GM1509,Oude IJsselstreek,Nee,39473,Gelderland,,,,,,,,,,,,,,,,,,,1,2,2,2,2,5.10,0
+GM0153,Enschede,Ja,158986,Overijssel,,,,,,,,,,,,,,1,3,3,3,3,3,3,4,7,8,5.00,1
+GM0213,Brummen,Nee,20698,Gelderland,,,,,,,,,,,,,,,,,,,,0,0,1,1,4.80,0
+GM0575,Noordwijk,Nee,42859,Zuid-Holland,,,,,,,,,,,,2,2,2,2,2,2,2,2,2,2,3,2,4.70,-1
+GM0267,Nijkerk,Nee,42943,Gelderland,,,,,,,,,,,,,,,1,1,1,1,1,2,2,2,2,4.70,0
+GM0537,Katwijk,Nee,65302,Zuid-Holland,,,,,,,,,,,,,,,1,1,1,1,1,1,2,2,3,4.60,1
+GM0502,Capelle aan den IJssel,Nee,66818,Zuid-Holland,,,,,,,,,,,,,,,,,,,,1,1,2,3,4.50,1
+GM1598,Koggenland,Nee,22738,Noord-Holland,,,,,,,,,,,,,,,,,1,1,1,1,1,1,1,4.40,0
+GM0820,"Nuenen, Gerwen en Nederwetten",Nee,23186,Noord-Brabant,,,,,,,,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4.30,0
+GM0597,Ridderkerk,Nee,46241,Zuid-Holland,,,,,,,,,,1,1,1,1,1,1,1,1,1,1,1,1,1,2,4.30,1
+GM0171,Noordoostpolder,Nee,46849,Flevoland,,,,,,,,,,,,,,,,,2,2,2,2,2,2,2,4.30,0
+GM1696,Wijdemeren,Nee,24013,Noord-Holland,,,,,,,,,,,,,,,,,,,,0,1,1,1,4.20,0
+GM0301,Zutphen,Nee,47609,Gelderland,,,,,,,,,,,,,,,,,,,,1,1,1,2,4.20,1
+GM0405,Hoorn,Nee,73004,Noord-Holland,,,,,,,,,,,,,,,,,,,1,1,1,2,3,4.10,1
+GM0285,Voorst,Nee,24417,Gelderland,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,1,1,1,4.10,0
+GM0141,Almelo,Nee,72849,Overijssel,,,,,,,,,,1,1,1,1,1,1,1,1,1,1,1,1,2,3,4.10,1
+GM0158,Haaksbergen,Nee,24277,Overijssel,,,,,,,,,,,,,,,,,,1,1,1,1,1,1,4.10,0
+GM0080,Leeuwarden,Ja,123107,Friesland,,,,,,,,,,,,,,,1,1,1,1,2,3,4,5,5,4.10,0
+GM0308,Baarn,Nee,24767,Utrecht,,,,,,,,,,,,,,,,,,,,0,0,2,1,4.00,-1
+GM1884,Kaag en Braassem,Nee,26866,Zuid-Holland,,,,,,,,,,,,,,,,,,,,0,0,1,1,3.70,0
+GM0197,Aalten,Nee,27011,Gelderland,,,,,,,,,,,,,,,,,,,,0,0,0,1,3.70,1
+GM0114,Emmen,Ja,107113,Drenthe,,,,,,,,,,1,1,1,1,1,1,1,1,1,1,1,2,3,4,3.70,1
+GM0400,Den Helder,Nee,55604,Noord-Holland,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,2,2,3.60,0
+GM0569,Nieuwkoop,Nee,28628,Zuid-Holland,,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,3.50,0
+GM1586,Oost Gelre,Nee,29704,Gelderland,,,,,,,,,,,,,,,,,,,,0,0,0,1,3.40,1
+GM1952,Midden-Groningen,Nee,60899,Groningen,,,,,,,,,,,,,,,,,,1,1,1,2,2,2,3.30,0
+GM0637,Zoetermeer,Ja,124944,Zuid-Holland,,,,,,,,,,,,,,,,,,,1,1,1,1,4,3.20,3
+GM1969,Westerkwartier,Nee,63031,Groningen,,,,,,,,,,,,,,,,,,1,1,1,1,3,2,3.20,-1
+GM1699,Noordenveld,Nee,31290,Drenthe,,,,,,,,,,,,,,,,,,,1,1,1,1,1,3.20,0
+GM0737,Tytsjerksteradiel,Nee,31780,Friesland,,,,,,,,,,,,,,,,,,,1,1,1,1,1,3.10,0
+GM0345,Veenendaal,Nee,65589,Utrecht,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,2,2,3.00,0
+GM0119,Meppel,Nee,33564,Drenthe,,,,,,,,,,,,,,,,,,,,0,0,0,1,3.00,1
+GM1731,Midden-Drenthe,Nee,33178,Drenthe,,,,,,,,,,,,,,,,,,,,0,0,1,1,3.00,0
+GM1901,Bodegraven-Reeuwijk,Nee,34462,Zuid-Holland,,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,2.90,0
+GM1955,Montferland,Nee,36026,Gelderland,,,,,,,,,,,,,,,,,,,,0,1,1,1,2.80,0
+GM0034,Almere,Ja,207904,Flevoland,,,,,,,,1,1,1,1,1,1,1,1,1,2,2,3,3,4,5,5,2.40,0
+GM1859,Berkelland,Nee,43904,Gelderland,,,,,,,,,,,,,,,,,,,,0,0,1,1,2.30,0
+GM1708,Steenwijkerland,Nee,43940,Overijssel,,,,,,,,,,,,,,,,,,,,1,1,1,1,2.30,0
+GM1900,Súdwest-Fryslân,Nee,89710,Friesland,,,,,,,,,,,,,,,,1,1,1,1,1,2,2,2,2.20,0
+GM1970,Noardeast-Fryslân,Nee,45181,Friesland,,,,,,,,,,,,,,,,,,,,0,0,1,1,2.20,0
+GM0074,Heerenveen,Nee,50257,Friesland,,,,,,,,,,,,,,,,,,,,0,0,0,1,2.00,1
+GM0479,Zaanstad,Ja,155885,Noord-Holland,,,,,,,,,,2,2,2,2,2,2,2,2,2,2,2,2,4,3,1.90,-1
+GM0160,Hardenberg,Nee,60574,Overijssel,,,,,,,,,,,,,,,,,,,,0,0,0,1,1.70,1
+GM0106,Assen,Nee,67963,Drenthe,,,,,,,,,,,,,,,,,,,,0,0,0,1,1.50,1
+GM1667,Reusel-De Mierden,Nee,13060,Noord-Brabant,,,,,,,,,,,,,,,,,,,,0,0,0,0,0.00,0
+GM0873,Woensdrecht,Nee,21866,Noord-Brabant,,,,,,,,,,,,,,,,,,,,0,0,0,0,0.00,0
+GM0370,Beemster,Nee,9748,Noord-Holland,,,,,,,,,,,,,,,,,,,,0,0,0,0,0.00,0
+GM0498,Drechterland,Nee,19597,Noord-Holland,,,,,,,,,,,,,,,,,,,,0,0,0,0,0.00,0
+GM0417,Laren,Nee,11195,Noord-Holland,,,,,,,,,,,,,,,,,,,,0,0,0,0,0.00,0
+GM0420,Medemblik,Nee,44809,Noord-Holland,,,,,,,,,,,,,,,,,,,,0,0,0,0,0.00,0
+GM0432,Opmeer,Nee,11779,Noord-Holland,,,,,,,,,,,,,,,,,,,,0,0,0,0,0.00,0
+GM0512,Gorinchem,Nee,36682,Zuid-Holland,,,,,,,,,,,,,,,,,,,,0,0,1,0,0.00,-1
+GM0531,Hendrik-Ido-Ambacht,Nee,30966,Zuid-Holland,,,,,,,,,,,,,,,,,,,,0,0,0,0,0.00,0
+GM0553,Lisse,Nee,22800,Zuid-Holland,,,,,,,,,,,,,,,,,,,,0,0,0,0,0.00,0
+GM0638,Zoeterwoude,Nee,8450,Zuid-Holland,,,,,,,,,,,,,,,,,,,,0,0,0,0,0.00,0
+GM1892,Zuidplas,Nee,42762,Zuid-Holland,,,,,,,,,,,,,,,,,,,,0,0,0,0,0.00,0
+GM0340,Rhenen,Nee,20004,Utrecht,,,,,,,,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0.00,0
+GM0313,Bunschoten,Nee,21576,Utrecht,,,,,,,,,,,,,,,,,,,,0,0,0,0,0.00,0
+GM0335,Montfoort,Nee,13996,Utrecht,,,,,,,,,,,,,,,,,,,,0,0,0,0,0.00,0
+GM0339,Renswoude,Nee,5259,Utrecht,,,,,,,,,,,,,,,,,,,,0,0,0,0,0.00,0
+GM0981,Vaals,Nee,10092,Limburg,,,,,,,,,,,,,,,,,,,,0,0,0,0,0.00,0
+GM0244,Hattem,Nee,12173,Gelderland,,,,,,,,,,,,,,,,,,,,0,0,0,0,0.00,0
+GM0279,Scherpenzeel,Nee,9873,Gelderland,,,,,,,,,,,,,,,,,,,,0,0,0,0,0.00,0
+GM0294,Winterswijk,Nee,28903,Gelderland,,,,,,,,,,,,,,,,,,,,0,0,0,0,0.00,0
+GM0003,Appingedam,Nee,11721,Groningen,,,,,,,,,,,,,,,,,,,,0,0,0,0,0.00,0
+GM0010,Delfzijl,Nee,24716,Groningen,,,,,,,,,,,,,,,,,,,,0,0,0,0,0.00,0
+GM1966,Het Hogeland,Nee,47888,Groningen,,,,,,,,,,,,,,,,,,,,0,0,0,0,0.00,0
+GM0024,Loppersum,Nee,9614,Groningen,,,,,,,,,,,,,,,,,,,,0,0,0,0,0.00,0
+GM1895,Oldambt,Nee,38129,Groningen,,,,,,,,,,,,,,,,,,,,0,0,0,0,0.00,0
+GM0037,Stadskanaal,Nee,31789,Groningen,,,,,,,,,,,,,,,,,,,,0,0,0,0,0.00,0
+GM0047,Veendam,Nee,27491,Groningen,,,,,,,,,,,,,,,,,,,,0,0,0,0,0.00,0
+GM1950,Westerwolde,Nee,25199,Groningen,,,,,,,,,,,,,,,,,,,,0,0,0,0,0.00,0
+GM0168,Losser,Nee,22622,Overijssel,,,,,,,,,,,,,,,,,,,,0,0,0,0,0.00,0
+GM1773,Olst-Wijhe,Nee,18071,Overijssel,,,,,,,,,,,,,,,,,,,,0,0,0,0,0.00,0
+GM1700,Twenterand,Nee,33792,Overijssel,,,,,,,,,,,,,,,,,,,,0,0,0,0,0.00,0
+GM0189,Wierden,Nee,24351,Overijssel,,,,,,,,,,,,,,,,,,,,0,0,0,0,0.00,0
+GM0059,Achtkarspelen,Nee,27852,Friesland,,,,,,,,,,,,,,,,,,,,0,0,0,0,0.00,0
+GM0060,Ameland,Nee,3673,Friesland,,,,,,,,,,,,,,,,,,,,0,0,0,0,0.00,0
+GM1891,Dantumadiel,Nee,18923,Friesland,,,,,,,,,,,,,,,,,,,,0,0,0,0,0.00,0
+GM0085,Ooststellingwerf,Nee,25497,Friesland,,,,,,,,,,,,,,,,,,,,0,0,0,0,0.00,0
+GM0088,Schiermonnikoog,Nee,936,Friesland,,,,,,,,,,,,,,,,,,,,0,0,0,0,0.00,0
+GM0093,Terschelling,Nee,4890,Friesland,,,,,,,,,,,,,,,,,,,,0,0,0,0,0.00,0
+GM0096,Vlieland,Nee,1138,Friesland,,,,,,,,,,,,,,,,,,,,0,0,0,0,0.00,0
+GM1949,Waadhoeke,Nee,46039,Friesland,,,,,,,,,,,,,,,,,,,,0,0,0,0,0.00,0
+GM0098,Weststellingwerf,Nee,25840,Friesland,,,,,,,,,,,,,,,,,,,,0,0,0,0,0.00,0
+GM1680,Aa en Hunze,Nee,25386,Drenthe,,,,,,,,,,,,,,,,,,,,0,0,0,0,0.00,0
+GM1681,Borger-Odoorn,Nee,25372,Drenthe,,,,,,,,,,,,,,,,,,,,0,0,0,0,0.00,0
+GM1701,Westerveld,Nee,19348,Drenthe,,,,,,,,,,,,,,,,,,,,0,0,0,0,0.00,0
+GM0677,Hulst,Nee,27524,Zeeland,,,,,,,,,,,,,,,,,,,,0,0,0,0,0.00,0
+GM1695,Noord-Beveland,Nee,7308,Zeeland,,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,0,0.00,-1

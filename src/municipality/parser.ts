@@ -25,7 +25,7 @@ export async function parse(data: string) {
         headers,
         lines,
         comment,
-        json: await csv({ headers, delimiter: [ ';' ] }).fromString(lines.join('\n')),
+        json: await csv({ headers, delimiter: [ ';' ], noheader: true }).fromString(lines.join('\n')),
         fullCsv: toCsv(headers, lines),
         fullCsvInternational: toInternationalCsv(headers, lines)
     };
