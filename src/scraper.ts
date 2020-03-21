@@ -3,12 +3,15 @@ require('dotenv').config();
 import { triggerMunicipalityUpdate } from './municipality/task';
 import { update } from './update';
 import { CronJob } from 'cron';
+import { updateFileIndex } from './util/update-file-index';
 
 // Initialize git instance in root folder
 const git = require('simple-git/promise')();
 
 async function municipalityJobTrigger() {
     const { today, time } = await triggerMunicipalityUpdate();
+
+    updateFileIndex();
 
     if ( process.env.ENV === 'prod' ) {
         await update(git, today, time);

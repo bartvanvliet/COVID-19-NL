@@ -29,7 +29,7 @@ The RIVM csv is in has `;` delimiter. We convert this CSV into a "international"
 
 Examples:
 - Latest: [/Municipalities/international-latest.csv](https://github.com/Kapulara/COVID-19-NL/tree/master/Municipalities/international-latest.csv)
-- Day 1: [/Municipalities/international-csv/02-27-2020-latest.csv](https://github.com/Kapulara/COVID-19-NL/tree/master/Municipalities/international-csv/02-27-2020-latest.csv)
+- Files: [/Municipalities/international-csv/files.json](https://raw.githubusercontent.com/Kapulara/COVID-19-NL/master/Municipalities/international-csv/files.json)
 - Day 24 history: [/Municipalities/international-csv/03-21-2020](https://github.com/Kapulara/COVID-19-NL/tree/master/Municipalities/international-csv/03-21-2020)
 - Day 24 at 08:00: [/Municipalities/international-csv/03-21-2020/08:00:00.csv](https://github.com/Kapulara/COVID-19-NL/tree/master/Municipalities/international-csv/03-21-2020/08%3A00%3A00.csv)
 - Day 24 latest: [/Municipalities/international-csv/03-21-2020-latest.csv](https://github.com/Kapulara/COVID-19-NL/tree/master/Municipalities/international-csv/03-21-2020-latest.csv)
@@ -40,6 +40,7 @@ The RIVM csv is in has `;` delimiter. This delimiter works with most tools but n
 
 Examples:
 - Latest: [/Municipalities/latest.csv](https://raw.githubusercontent.com/Kapulara/COVID-19-NL/master/Municipalities/latest.csv)
+- Files: [/Municipalities/csv/files.json](https://raw.githubusercontent.com/Kapulara/COVID-19-NL/master/Municipalities/csv/files.json)
 - Day 1: [/Municipalities/csv/02-27-2020-latest.csv](https://raw.githubusercontent.com/Kapulara/COVID-19-NL/master/Municipalities/csv/02-27-2020-latest.csv)
 - Day 24 history: [/Municipalities/csv/03-21-2020](https://github.com/Kapulara/COVID-19-NL/tree/master/Municipalities/csv/03-21-2020)
 - Day 24 at 08:00: [/Municipalities/csv/03-21-2020/08:00:00.csv](https://raw.githubusercontent.com/Kapulara/COVID-19-NL/master/Municipalities/csv/03-21-2020/08%3A00%3A00.csv)
@@ -51,6 +52,7 @@ The RIVM csv converted to a JSON format.
 
 Examples:
 - Latest: [/Municipalities/latest.json](https://raw.githubusercontent.com/Kapulara/COVID-19-NL/master/Municipalities/latest.json)
+- Files: [/Municipalities/json/files.json](https://raw.githubusercontent.com/Kapulara/COVID-19-NL/master/Municipalities/json/files.json)
 - Day 1: [/Municipalities/json/02-27-2020-latest.json](https://raw.githubusercontent.com/Kapulara/COVID-19-NL/master/Municipalities/json/02-27-2020-latest.json)
 - Day 24 history: [/Municipalities/json/03-21-2020](https://github.com/Kapulara/COVID-19-NL/tree/master/Municipalities/json/03-21-2020)
 - Day 24 at 08:00: [/Municipalities/json/03-21-2020/08:00:00.json](https://raw.githubusercontent.com/Kapulara/COVID-19-NL/master/Municipalities/json/03-21-2020/08%3A00%3A00.json)
