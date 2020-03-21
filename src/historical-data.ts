@@ -133,7 +133,6 @@ async function parse() {
             dateFolderCheck('json', day);
             writeJson(timeFile('json', day, '14:00:00'), municipalities);
             writeJson(todayFile('json', day), municipalities);
-            writeJson(typeLatest('json'), municipalities);
         });
 }
 
