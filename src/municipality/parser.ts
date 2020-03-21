@@ -1,4 +1,25 @@
 import * as csv from 'csvtojson';
+import * as _ from 'lodash';
+import { MunicipalityData } from '../municipality-data';
+import { calculateAverageOverPopulation } from '../util/math';
+
+/**
+ * Cleans json and parses fields
+ *
+ * @param items
+ */
+function clean(items: any[]) {
+    const Aantal = (item: any) => parseInt(item.Aantal) || 0;
+    const BevAant = (item: any) => parseInt(item.BevAant) || 0;
+
+    return _.sortBy(items.map((item) => ({
+        Aantal: Aantal(item),
+        BevAant: BevAant(item),
+        Gemeente: item.Gemeente,
+        Gemnr: parseInt(item.Gemnr) || 0,
+        GemiddeldOverBev: calculateAverageOverPopulation(Aantal(item), BevAant(item))
+    }) as MunicipalityData), 'Gemeente', 'asc');
+}
 
 /**
  * Will parse the provided data string
@@ -25,7 +46,7 @@ export async function parse(data: string) {
         headers,
         lines,
         comment,
-        json: await csv({ headers, delimiter: [ ';' ], noheader: true }).fromString(lines.join('\n')),
+        json: clean(await csv({ headers, delimiter: [ ';' ], noheader: true }).fromString(lines.join('\n'))),
         fullCsv: toCsv(headers, lines),
         fullCsvInternational: toInternationalCsv(headers, lines)
     };
@@ -35,7 +56,10 @@ export async function parse(data: string) {
  * to csv
  * @returns {string}
  */
-function toCsv(headers: string[], lines: string[]) {
+function toCsv(
+    headers: string[],
+    lines: string[]
+) {
     return headers.join(';') + '\n' + lines.join('\n');
 }
 
@@ -43,7 +67,10 @@ function toCsv(headers: string[], lines: string[]) {
  * to international csv
  * @returns {string}
  */
-function toInternationalCsv(headers: string[], lines: string[]) {
+function toInternationalCsv(
+    headers: string[],
+    lines: string[]
+) {
     return ((headers.join(';') + '\n') + lines.join('\n'))
         // Replace all existing colons with nothing
         .split(',')

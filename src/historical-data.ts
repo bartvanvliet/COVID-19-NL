@@ -1,8 +1,9 @@
+import * as csv from 'csvtojson';
 import * as fs from 'fs';
+import * as _ from 'lodash';
 import * as moment from 'moment-timezone';
 import * as path from 'path';
-import * as csv from 'csvtojson';
-import * as _ from 'lodash';
+import { MunicipalityData } from './municipality-data';
 import {
     dateFolderCheck,
     dateFormat,
@@ -12,19 +13,12 @@ import {
     todayFile,
     typeLatest
 } from './util/folder-generators';
+import { calculateAverageOverPopulation } from './util/math';
 import { appDir, write, writeJson } from './util/writers';
-
-interface IMunicipalityData {
-    Gemnr: number;
-    Gemeente: string;
-    Aantal: number;
-    BevAant: number;
-    GemiddeldOverBev: number;
-}
 
 interface IDataItem {
     date: moment.Moment;
-    municipalities: IMunicipalityData[]
+    municipalities: MunicipalityData[]
 }
 
 interface IDataMap {
@@ -45,7 +39,7 @@ function header(delimiter: string) {
 
 function toCSV(
     date: moment.Moment,
-    municipalities: IMunicipalityData[],
+    municipalities: MunicipalityData[],
     delimiter: string
 ) {
     return `${header(delimiter)}\n` + municipalities.map((municipality) => [
@@ -108,8 +102,7 @@ async function parse() {
                 Gemnr: parseInt(item[ 'GemeentecodeGM' ]
                     .split('GM')
                     .join('')),
-                GemiddeldOverBev: (+parseFloat(`${Aantal / (BevAant / 100000)}`)
-                    .toFixed(1)) || 0
+                GemiddeldOverBev: calculateAverageOverPopulation(Aantal, BevAant)
             });
         });
     });
@@ -137,11 +130,10 @@ async function parse() {
             write(timeFile('international-csv', day, '14:00:00'), fullCsvInternational);
             write(todayFile('international-csv', day), fullCsvInternational);
 
-            // dateFolderCheck('json', day);
-            // writeJson(timeFile('json', day, time), json);
-            // writeJson(todayFile('json', day), json);
-            // writeJson(todayFile('json', day), json);
-            // writeJson(typeLatest('json'), json);
+            dateFolderCheck('json', day);
+            writeJson(timeFile('json', day, '14:00:00'), municipalities);
+            writeJson(todayFile('json', day), municipalities);
+            writeJson(typeLatest('json'), municipalities);
         });
 }
 
