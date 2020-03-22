@@ -1,0 +1,9 @@
+{
+  "municipality": "Roerdalen",
+  "population": 20615,
+  "municipalityNr": 1669,
+  "csv": "roerdalen.csv",
+  "csvLines": 26,
+  "json": "roerdalen.json",
+  "jsonLength": 25
+}

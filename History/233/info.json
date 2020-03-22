@@ -1,0 +1,9 @@
+{
+  "municipality": "Ermelo",
+  "population": 26858,
+  "municipalityNr": 233,
+  "csv": "ermelo.csv",
+  "csvLines": 26,
+  "json": "ermelo.json",
+  "jsonLength": 25
+}

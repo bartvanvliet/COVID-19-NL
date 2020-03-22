@@ -1,0 +1,9 @@
+{
+  "municipality": "Zundert",
+  "population": 21612,
+  "municipalityNr": 879,
+  "csv": "zundert.csv",
+  "csvLines": 26,
+  "json": "zundert.json",
+  "jsonLength": 25
+}

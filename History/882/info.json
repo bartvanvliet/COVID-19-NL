@@ -1,0 +1,9 @@
+{
+  "municipality": "Landgraaf",
+  "population": 37591,
+  "municipalityNr": 882,
+  "csv": "landgraaf.csv",
+  "csvLines": 26,
+  "json": "landgraaf.json",
+  "jsonLength": 25
+}

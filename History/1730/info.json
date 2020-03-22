@@ -1,0 +1,9 @@
+{
+  "municipality": "Tynaarlo",
+  "population": 33698,
+  "municipalityNr": 1730,
+  "csv": "tynaarlo.csv",
+  "csvLines": 26,
+  "json": "tynaarlo.json",
+  "jsonLength": 25
+}

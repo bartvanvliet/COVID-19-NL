@@ -1,0 +1,9 @@
+{
+  "municipality": "Lansingerland",
+  "population": 61601,
+  "municipalityNr": 1621,
+  "csv": "lansingerland.csv",
+  "csvLines": 26,
+  "json": "lansingerland.json",
+  "jsonLength": 25
+}

@@ -1,0 +1,9 @@
+{
+  "municipality": "Laren",
+  "population": 11195,
+  "municipalityNr": 417,
+  "csv": "laren.csv",
+  "csvLines": 26,
+  "json": "laren.json",
+  "jsonLength": 25
+}

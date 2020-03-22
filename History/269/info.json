@@ -1,0 +1,9 @@
+{
+  "municipality": "Oldebroek",
+  "population": 23598,
+  "municipalityNr": 269,
+  "csv": "oldebroek.csv",
+  "csvLines": 26,
+  "json": "oldebroek.json",
+  "jsonLength": 25
+}

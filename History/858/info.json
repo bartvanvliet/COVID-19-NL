@@ -1,0 +1,9 @@
+{
+  "municipality": "Valkenswaard",
+  "population": 30910,
+  "municipalityNr": 858,
+  "csv": "valkenswaard.csv",
+  "csvLines": 26,
+  "json": "valkenswaard.json",
+  "jsonLength": 25
+}

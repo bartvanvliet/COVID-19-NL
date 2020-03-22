@@ -1,0 +1,9 @@
+{
+  "municipality": "Boxmeer",
+  "population": 29065,
+  "municipalityNr": 756,
+  "csv": "boxmeer.csv",
+  "csvLines": 26,
+  "json": "boxmeer.json",
+  "jsonLength": 25
+}

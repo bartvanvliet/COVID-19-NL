@@ -1,0 +1,9 @@
+{
+  "municipality": "Hilversum",
+  "population": 90238,
+  "municipalityNr": 402,
+  "csv": "hilversum.csv",
+  "csvLines": 26,
+  "json": "hilversum.json",
+  "jsonLength": 25
+}

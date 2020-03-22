@@ -1,0 +1,9 @@
+{
+  "municipality": "Westland",
+  "population": 108603,
+  "municipalityNr": 1783,
+  "csv": "westland.csv",
+  "csvLines": 26,
+  "json": "westland.json",
+  "jsonLength": 25
+}

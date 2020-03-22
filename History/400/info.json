@@ -1,0 +1,9 @@
+{
+  "municipality": "Den Helder",
+  "population": 55604,
+  "municipalityNr": 400,
+  "csv": "den-helder.csv",
+  "csvLines": 26,
+  "json": "den-helder.json",
+  "jsonLength": 25
+}

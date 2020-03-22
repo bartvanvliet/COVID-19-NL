@@ -1,0 +1,9 @@
+{
+  "municipality": "Sliedrecht",
+  "population": 25026,
+  "municipalityNr": 610,
+  "csv": "sliedrecht.csv",
+  "csvLines": 26,
+  "json": "sliedrecht.json",
+  "jsonLength": 25
+}

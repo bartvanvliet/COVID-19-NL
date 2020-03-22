@@ -1,0 +1,9 @@
+{
+  "municipality": "Roermond",
+  "population": 58209,
+  "municipalityNr": 957,
+  "csv": "roermond.csv",
+  "csvLines": 26,
+  "json": "roermond.json",
+  "jsonLength": 25
+}

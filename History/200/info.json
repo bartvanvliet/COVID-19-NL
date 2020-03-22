@@ -1,0 +1,9 @@
+{
+  "municipality": "Apeldoorn",
+  "population": 162445,
+  "municipalityNr": 200,
+  "csv": "apeldoorn.csv",
+  "csvLines": 26,
+  "json": "apeldoorn.json",
+  "jsonLength": 25
+}

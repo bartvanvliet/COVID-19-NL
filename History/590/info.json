@@ -1,0 +1,9 @@
+{
+  "municipality": "Papendrecht",
+  "population": 32290,
+  "municipalityNr": 590,
+  "csv": "papendrecht.csv",
+  "csvLines": 26,
+  "json": "papendrecht.json",
+  "jsonLength": 25
+}

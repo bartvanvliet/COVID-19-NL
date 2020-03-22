@@ -1,0 +1,9 @@
+{
+  "municipality": "Amstelveen",
+  "population": 90838,
+  "municipalityNr": 362,
+  "csv": "amstelveen.csv",
+  "csvLines": 26,
+  "json": "amstelveen.json",
+  "jsonLength": 25
+}

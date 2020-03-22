@@ -1,0 +1,9 @@
+{
+  "municipality": "Hardenberg",
+  "population": 60574,
+  "municipalityNr": 160,
+  "csv": "hardenberg.csv",
+  "csvLines": 26,
+  "json": "hardenberg.json",
+  "jsonLength": 25
+}

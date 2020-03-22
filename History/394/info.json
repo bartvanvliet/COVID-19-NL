@@ -1,0 +1,9 @@
+{
+  "municipality": "Haarlemmermeer",
+  "population": 154235,
+  "municipalityNr": 394,
+  "csv": "haarlemmermeer.csv",
+  "csvLines": 26,
+  "json": "haarlemmermeer.json",
+  "jsonLength": 25
+}

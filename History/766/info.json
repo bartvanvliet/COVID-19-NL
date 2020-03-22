@@ -1,0 +1,9 @@
+{
+  "municipality": "Dongen",
+  "population": 26051,
+  "municipalityNr": 766,
+  "csv": "dongen.csv",
+  "csvLines": 26,
+  "json": "dongen.json",
+  "jsonLength": 25
+}

@@ -1,0 +1,9 @@
+{
+  "municipality": "Lochem",
+  "population": 33590,
+  "municipalityNr": 262,
+  "csv": "lochem.csv",
+  "csvLines": 26,
+  "json": "lochem.json",
+  "jsonLength": 25
+}

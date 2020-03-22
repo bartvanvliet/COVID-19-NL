@@ -1,0 +1,9 @@
+{
+  "municipality": "Hattem",
+  "population": 12173,
+  "municipalityNr": 244,
+  "csv": "hattem.csv",
+  "csvLines": 26,
+  "json": "hattem.json",
+  "jsonLength": 25
+}
