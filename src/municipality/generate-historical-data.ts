@@ -11,9 +11,9 @@ import {
     formatDate,
     timeFile,
     todayFile
-} from './municipality/folder-generators';
-import { calculateAverageOverPopulation } from './util/math';
-import { appDir, write, writeJson } from './util/writers';
+} from './folder-generators';
+import { calculateAverageOverPopulation } from '../util/math';
+import { appDir, write, writeJson } from '../util/writers';
 
 interface IDataItem {
     date: moment.Moment;

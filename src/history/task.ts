@@ -1,6 +1,7 @@
+import { Parser } from 'json2csv';
 import * as _ from 'lodash';
 import * as moment from 'moment-timezone';
-import { MunicipalityData } from '../municipality-data';
+import { MunicipalityData } from '../municipality/municipality-data';
 import { dateFolder, dateFormat, folder, format } from '../municipality/folder-generators';
 import * as path from 'path';
 import * as fs from 'fs';
@@ -59,6 +60,131 @@ function toJSON(municipality: MunicipalityHistoryCache) {
     }));
 }
 
+function toFlatJson(
+    municipality: MunicipalityHistoryCache,
+    dateOptions: string[]
+) {
+    //Gemeentecode,Gemeentenaam,Inwonertal,COVID 27-02,COVID 28-02, ....
+    let flatData: any = {
+        Gemeentecode: municipality.gemnr,
+        Gemeentenaam: municipality.gemeente,
+        Inwonertal: municipality.bevAant
+    };
+
+    dateOptions.map((date) => ({
+        item: _.find(municipality.data, { date }),
+        date
+    }))
+        .forEach(({ date, item }) => {
+            if ( !_.isNil(item) ) {
+                flatData[ date ] = item.aantal;
+                // flatData[ 'Gemiddeld over bevolking ' + date ] = item.gemiddeldOverBev;
+                // flatData[ 'Stijging ' + date ] = item.stijging.aantal;
+            } else {
+                flatData[ date ] = 0;
+                // flatData[ 'Gemiddeld over bevolking ' + date ] = 0;
+                // flatData[ 'Stijging ' + date ] = 0;
+            }
+        });
+
+    return flatData;
+}
+
+function fromMunicipalityJsonToCsv(flatMunicipalities: any[]) {
+    const fields = Object.keys(flatMunicipalities[ 0 ])
+        .filter((key) => key.indexOf('Gemiddeld') === -1 && key.indexOf('Stijging') === -1);
+    const parser = new Parser({
+        fields
+    });
+
+    return parser.parse(flatMunicipalities);
+}
+
+function toCountry(
+    municipalitiesArray: MunicipalityHistoryCache[],
+    dateOptions: string[]
+) {
+    //; 'Date,Totaal,Stijging,StijgingOverInwonertal,Inwonertal'
+    // const population = municipalitiesArray.reduce((
+    //     prev,
+    //     item
+    // ) => prev + item.bevAant, 0);
+    let data: {
+        [ date: string ]: {
+            municipality: {
+                gemnr: number,
+                gemeente: string,
+                bevAant: number
+            },
+            item: MunicipalityHistoryData
+        }[]
+    } = {};
+    municipalitiesArray.forEach((municipality: MunicipalityHistoryCache) => {
+        dateOptions
+            .map((date) => ({
+                date,
+                municipality: {
+                    gemnr: municipality.gemnr,
+                    gemeente: municipality.gemeente,
+                    bevAant: municipality.bevAant
+                },
+                item: _.find(municipality.data, { date }) || {
+                    aantal: 0,
+                    gemiddeldOverBev: 0,
+                    date,
+                    stijging: {
+                        aantal: 0,
+                        gemiddeldOverBev: 0,
+                        date: '?'
+                    }
+                } as MunicipalityHistoryData
+            }))
+            .forEach(({ date, municipality, item }) => {
+                if ( _.isNil(data[ date ]) ) {
+                    data[ date ] = [];
+                }
+
+                data[ date ].push({
+                    municipality,
+                    item
+                });
+            });
+    });
+
+    const dates = Object.keys(data);
+    const finalData = [];
+    for (let Date of dates) {
+        const dayData = data[ Date ];
+
+        const Aantal = dayData.reduce((
+            prev,
+            { item }
+        ) => prev + item.aantal, 0);
+        const Bevolking = dayData.reduce((
+            prev,
+            { municipality }
+        ) => prev + municipality.bevAant, 0);
+
+        finalData.push({
+            Date,
+            Aantal,
+            Bevolking
+        });
+    }
+
+    return finalData;
+}
+
+function fromCountryJsonToCsv(countryData: any[]) {
+    const fields = Object.keys(countryData[ 0 ])
+        .filter((key) => key.indexOf('Gemiddeld') === -1 && key.indexOf('Stijging') === -1);
+    const parser = new Parser({
+        fields
+    });
+
+    return parser.parse(countryData);
+}
+
 export async function triggerHistoryUpdate() {
     console.log('Triggering history update.');
     let municipalities: { [ gemnr: number ]: MunicipalityHistoryCache } = {};
@@ -104,7 +230,14 @@ export async function triggerHistoryUpdate() {
     }
 
     const overviewFiles = [];
+    const flatMunicipalities = [];
     const municipalityKeys = Object.keys(municipalities);
+    let municipalitiesArray: MunicipalityHistoryCache[] = [];
+
+    const dateOptions = _.uniq(_.flatten(Object.keys(municipalities)
+        .map((municipalityKey) => municipalities[ municipalityKey as any ].data)
+        .map((data) => data.map((dataItem) => dataItem.date))))
+        .sort();
 
     for (let index = 0; index < municipalityKeys.length; index++) {
         const municipalityKey = municipalityKeys[ index ];
@@ -112,6 +245,7 @@ export async function triggerHistoryUpdate() {
 
         const key = slugify(municipality.gemeente, { strict: true, lower: true });
 
+        flatMunicipalities.push(toFlatJson(municipality, dateOptions));
 
         const folder = path.join(appDir, `History/${municipality.gemnr}`);
         if ( !fs.existsSync(folder) ) {
@@ -135,10 +269,21 @@ export async function triggerHistoryUpdate() {
         writeJson(`History/${municipality.gemnr}/info.json`, file);
     }
 
+    municipalitiesArray = Object.keys(municipalities)
+        .map((municipalityKey) => municipalities[ municipalityKey as any ]);
+
     writeJson(`History/files.json`, overviewFiles.map((fileItem) => ({
         ...fileItem,
         csv: `${fileItem.municipalityNr}/${fileItem.csv}`,
         json: `${fileItem.municipalityNr}/${fileItem.json}`
     })));
+    writeJson(`History/latest.json`, flatMunicipalities);
+    write(`History/latest.csv`, fromMunicipalityJsonToCsv(flatMunicipalities));
+
+    const country = toCountry(municipalitiesArray, dateOptions);
+
+    writeJson(`History/total-nl-latest.json`, country);
+    write(`History/total-nl-latest.csv`, fromCountryJsonToCsv(country));
+
     console.log('Ended history update.');
 }

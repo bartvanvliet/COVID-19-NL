@@ -1,6 +1,6 @@
 import { SimpleGit } from 'simple-git/promise';
 
-export async function update(git: SimpleGit, today: string, time: string) {
+export async function commitUpdate(git: SimpleGit, today: string, time: string) {
     const isRepo = await git.checkIsRepo();
 
     if ( isRepo ) {

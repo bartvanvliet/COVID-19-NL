@@ -9,7 +9,7 @@
   "main": "dist/scraper.ts",
   "license": "MIT",
   "scripts": {
-    "start:historical": "ts-node -P tsconfig.json src/historical-data.ts",
+    "start:historical": "ts-node -P tsconfig.json ./src/municipality/generate-historical-data.ts",
     "start": "ts-node -P tsconfig.json ./src/scraper.ts ",
     "build": "tsc --build --project tsconfig.json",
     "build:watch": "tsc --project tsconfig.json --watch"
@@ -20,6 +20,7 @@
     "cron": "^1.8.2",
     "csvtojson": "^2.0.10",
     "dotenv": "^8.2.0",
+    "json2csv": "^5.0.0",
     "lodash": "^4.17.15",
     "moment": "^2.24.0",
     "moment-timezone": "^0.5.28",
@@ -35,6 +36,7 @@
     "@types/lodash": "^4.14.149",
     "@types/moment": "^2.13.0",
     "@types/moment-timezone": "^0.5.12",
+    "@types/json2csv": "^4.5.1",
     "ts-node": "^8.7.0"
   }
 }

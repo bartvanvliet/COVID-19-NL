@@ -1,7 +1,7 @@
 import * as csv from 'csvtojson';
 import * as _ from 'lodash';
 import * as moment from 'moment-timezone';
-import { MunicipalityData } from '../municipality-data';
+import { MunicipalityData } from './municipality-data';
 import { calculateAverageOverPopulation } from '../util/math';
 import { dateFormat, format } from './folder-generators';
 
