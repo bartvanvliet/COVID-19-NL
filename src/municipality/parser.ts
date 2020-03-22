@@ -27,7 +27,7 @@ function clean(items: any[]) {
  * @returns {{headers: string[], lines: string[]}}
  */
 export async function parse(data: string) {
-    const lines = data.trim().split('\n');
+    const lines: string[] = data.trim().split('\n');
     const headers = lines[ 0 ]
         // For some reason the parser couldn't handle dots so we had to replace this with something that made more sense.
         .split('Aantal per 100.000 inwoners')
@@ -35,7 +35,14 @@ export async function parse(data: string) {
         .split(';');
     lines.splice(0, 1);
 
-    const comment = lines.slice(0, 1);
+    const comment = lines.slice(0, 1)[ 0 ];
+    const commentPart = comment.split(';')[1];
+
+    // Extract correct result
+    const commentResult = /[0-9]+/.exec(commentPart);
+    if ( commentResult.length > 0 ) {
+        lines[ 0 ] = comment.split(';99;').join(`;${commentResult[ 0 ]};`);
+    }
 
     // Should not remove comment?
     // if ( lines[ 0 ].startsWith('-1;') ) {
