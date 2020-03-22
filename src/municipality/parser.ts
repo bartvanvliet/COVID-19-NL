@@ -1,7 +1,9 @@
 import * as csv from 'csvtojson';
 import * as _ from 'lodash';
+import * as moment from 'moment-timezone';
 import { MunicipalityData } from '../municipality-data';
 import { calculateAverageOverPopulation } from '../util/math';
+import { dateFormat, format } from './folder-generators';
 
 /**
  * Cleans json and parses fields
@@ -35,8 +37,18 @@ export async function parse(data: string) {
         .split(';');
     lines.splice(0, 1);
 
-    const comment = lines.slice(0, 1)[ 0 ];
-    const commentPart = comment.split(';')[1];
+    let comment = lines.slice(0, 1)[ 0 ];
+    let commentPart = comment.split(';')[ 1 ];
+
+    const today = moment.tz('Europe/Amsterdam');
+
+    // For whatever reason RIVM posted the wrong comment in their CSV data.
+    // Since we can't change the live data we have the put in the correction here.
+    if ( today.isSameOrAfter(moment.tz('03-22-2020 14:00:00', format, 'Europe/Amsterdam'), 'day') &&
+        today.isSameOrBefore(moment.tz('03-24-2020 14:00:00', format, 'Europe/Amsterdam'), 'day') ) {
+        comment = comment.split('55').join('155');
+        commentPart = comment.split(';')[ 1 ];
+    }
 
     // Extract correct result
     const commentResult = /[0-9]+/.exec(commentPart);
