@@ -10,17 +10,27 @@ If you have an idea please [submit an issue!](https://github.com/Kapulara/COVID-
 ⚠️ Everything after 03-20-2020 come from the [RIVD.nl website](https://www.rivm.nl/coronavirus-kaart-van-nederland-per-gemeente) directly.
 
 ## Table of Contents
-1. [Scraper](#scraper)
+1. [Projects](#projects)
+2. [Scraper](#scraper)
     1. [International CSV](#international-csv)
     2. [CSV](#csv)
     3. [JSON](#json)
-2. [History](#history)
+3. [History](#history)
     1. [Country](#country)
     2. [Municipalities](#municipalities)
 4. [API](#api)
-4. [GeoJSON](#geojson-formats)
-5. [Contributing](#contributing)
-6. [Sources](#sources)
+5. [GeoJSON](#geojson-formats)
+6. [Contributing](#contributing)
+7. [Sources](#sources)
+
+## Projects
+
+Projects currently using this API/data:
+
+| Project | Description | URL | Repository |
+| ------------- | ------------- | ------------- | ------------- |
+| coronamap-nl | Map created for tracking the progress of the corona virus by [codefor.nl](https://www.codefor.nl/) | [URL](https://www.codefor.nl/coronamap-nl/) | [codefornl/coronamap-nl](https://github.com/codefornl/coronamap-nl) | 
+
 
 ## Scraper
 
