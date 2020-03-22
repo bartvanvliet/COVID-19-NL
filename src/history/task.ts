@@ -247,7 +247,7 @@ export async function triggerHistoryUpdate() {
 
         flatMunicipalities.push(toFlatJson(municipality, dateOptions));
 
-        const folder = path.join(appDir, `History/${municipality.gemnr}`);
+        const folder = path.join(appDir, `History/municipalities/${municipality.gemnr}`);
         if ( !fs.existsSync(folder) ) {
             fs.mkdirSync(folder);
         }
@@ -264,26 +264,26 @@ export async function triggerHistoryUpdate() {
             jsonLength: json.length
         };
         overviewFiles.push(file);
-        write(`History/${municipality.gemnr}/${key}.csv`, csv);
-        writeJson(`History/${municipality.gemnr}/${key}.json`, json);
-        writeJson(`History/${municipality.gemnr}/info.json`, file);
+        write(`History/municipalities/${municipality.gemnr}/${key}.csv`, csv);
+        writeJson(`History/municipalities/${municipality.gemnr}/${key}.json`, json);
+        writeJson(`History/municipalities/${municipality.gemnr}/info.json`, file);
     }
 
     municipalitiesArray = Object.keys(municipalities)
         .map((municipalityKey) => municipalities[ municipalityKey as any ]);
 
-    writeJson(`History/files.json`, overviewFiles.map((fileItem) => ({
+    writeJson(`History/municipalities/files.json`, overviewFiles.map((fileItem) => ({
         ...fileItem,
         csv: `${fileItem.municipalityNr}/${fileItem.csv}`,
         json: `${fileItem.municipalityNr}/${fileItem.json}`
     })));
-    writeJson(`History/latest.json`, flatMunicipalities);
-    write(`History/latest.csv`, fromMunicipalityJsonToCsv(flatMunicipalities));
+    writeJson(`History/municipalities/municipality-history-latest.json`, flatMunicipalities);
+    write(`History/municipalities/municipality-history-latest.csv`, fromMunicipalityJsonToCsv(flatMunicipalities));
 
     const country = toCountry(municipalitiesArray, dateOptions);
 
-    writeJson(`History/total-nl-latest.json`, country);
-    write(`History/total-nl-latest.csv`, fromCountryJsonToCsv(country));
+    writeJson(`History/nl/total-nl-latest.json`, country);
+    write(`History/nl/total-nl-latest.csv`, fromCountryJsonToCsv(country));
 
     console.log('Ended history update.');
 }
