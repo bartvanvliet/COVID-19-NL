@@ -3,7 +3,7 @@
   "population": 155885,
   "municipalityNr": 479,
   "csv": "zaanstad.csv",
-  "csvLines": 26,
+  "csvLines": 27,
   "json": "zaanstad.json",
-  "jsonLength": 25
+  "jsonLength": 26
 }

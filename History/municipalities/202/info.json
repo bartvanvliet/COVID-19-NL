@@ -3,7 +3,7 @@
   "population": 159265,
   "municipalityNr": 202,
   "csv": "arnhem.csv",
-  "csvLines": 26,
+  "csvLines": 27,
   "json": "arnhem.json",
-  "jsonLength": 25
+  "jsonLength": 26
 }

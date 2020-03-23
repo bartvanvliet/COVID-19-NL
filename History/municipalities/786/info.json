@@ -3,7 +3,7 @@
   "population": 12483,
   "municipalityNr": 786,
   "csv": "grave.csv",
-  "csvLines": 26,
+  "csvLines": 27,
   "json": "grave.json",
-  "jsonLength": 25
+  "jsonLength": 26
 }
