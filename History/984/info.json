@@ -1,0 +1,9 @@
+{
+  "municipality": "Venray",
+  "population": 43326,
+  "municipalityNr": 984,
+  "csv": "venray.csv",
+  "csvLines": 26,
+  "json": "venray.json",
+  "jsonLength": 25
+}

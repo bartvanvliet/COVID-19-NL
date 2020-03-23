@@ -1,0 +1,9 @@
+{
+  "municipality": "Breda",
+  "population": 183873,
+  "municipalityNr": 758,
+  "csv": "breda.csv",
+  "csvLines": 26,
+  "json": "breda.json",
+  "jsonLength": 25
+}

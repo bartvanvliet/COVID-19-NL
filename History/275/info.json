@@ -1,0 +1,9 @@
+{
+  "municipality": "Rheden",
+  "population": 43640,
+  "municipalityNr": 275,
+  "csv": "rheden.csv",
+  "csvLines": 26,
+  "json": "rheden.json",
+  "jsonLength": 25
+}

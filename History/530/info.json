@@ -1,0 +1,9 @@
+{
+  "municipality": "Hellevoetsluis",
+  "population": 40049,
+  "municipalityNr": 530,
+  "csv": "hellevoetsluis.csv",
+  "csvLines": 26,
+  "json": "hellevoetsluis.json",
+  "jsonLength": 25
+}

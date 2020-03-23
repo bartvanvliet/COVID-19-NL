@@ -1,0 +1,9 @@
+{
+  "municipality": "Bernheze",
+  "population": 30806,
+  "municipalityNr": 1721,
+  "csv": "bernheze.csv",
+  "csvLines": 26,
+  "json": "bernheze.json",
+  "jsonLength": 25
+}

@@ -1,0 +1,9 @@
+{
+  "municipality": "Westvoorne",
+  "population": 14626,
+  "municipalityNr": 614,
+  "csv": "westvoorne.csv",
+  "csvLines": 26,
+  "json": "westvoorne.json",
+  "jsonLength": 25
+}

@@ -1,0 +1,9 @@
+{
+  "municipality": "Borsele",
+  "population": 22800,
+  "municipalityNr": 654,
+  "csv": "borsele.csv",
+  "csvLines": 26,
+  "json": "borsele.json",
+  "jsonLength": 25
+}

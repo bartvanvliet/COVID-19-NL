@@ -1,0 +1,9 @@
+{
+  "municipality": "Blaricum",
+  "population": 11202,
+  "municipalityNr": 376,
+  "csv": "blaricum.csv",
+  "csvLines": 26,
+  "json": "blaricum.json",
+  "jsonLength": 25
+}

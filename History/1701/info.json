@@ -1,0 +1,9 @@
+{
+  "municipality": "Westerveld",
+  "population": 19348,
+  "municipalityNr": 1701,
+  "csv": "westerveld.csv",
+  "csvLines": 26,
+  "json": "westerveld.json",
+  "jsonLength": 25
+}

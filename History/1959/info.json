@@ -1,0 +1,9 @@
+{
+  "municipality": "Altena",
+  "population": 55386,
+  "municipalityNr": 1959,
+  "csv": "altena.csv",
+  "csvLines": 26,
+  "json": "altena.json",
+  "jsonLength": 25
+}

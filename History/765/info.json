@@ -1,0 +1,9 @@
+{
+  "municipality": "Pekela",
+  "population": 12214,
+  "municipalityNr": 765,
+  "csv": "pekela.csv",
+  "csvLines": 26,
+  "json": "pekela.json",
+  "jsonLength": 25
+}

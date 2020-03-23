@@ -1,0 +1,9 @@
+{
+  "municipality": "Maassluis",
+  "population": 32768,
+  "municipalityNr": 556,
+  "csv": "maassluis.csv",
+  "csvLines": 26,
+  "json": "maassluis.json",
+  "jsonLength": 25
+}

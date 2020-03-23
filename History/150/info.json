@@ -1,0 +1,9 @@
+{
+  "municipality": "Deventer",
+  "population": 99957,
+  "municipalityNr": 150,
+  "csv": "deventer.csv",
+  "csvLines": 26,
+  "json": "deventer.json",
+  "jsonLength": 25
+}

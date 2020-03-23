@@ -1,0 +1,9 @@
+{
+  "municipality": "Hollands Kroon",
+  "population": 47815,
+  "municipalityNr": 1911,
+  "csv": "hollands-kroon.csv",
+  "csvLines": 26,
+  "json": "hollands-kroon.json",
+  "jsonLength": 25
+}

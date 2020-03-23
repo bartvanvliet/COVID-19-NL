@@ -1,0 +1,9 @@
+{
+  "municipality": "Leudal",
+  "population": 35681,
+  "municipalityNr": 1640,
+  "csv": "leudal.csv",
+  "csvLines": 26,
+  "json": "leudal.json",
+  "jsonLength": 25
+}

@@ -1,0 +1,9 @@
+{
+  "municipality": "Kerkrade",
+  "population": 45642,
+  "municipalityNr": 928,
+  "csv": "kerkrade.csv",
+  "csvLines": 26,
+  "json": "kerkrade.json",
+  "jsonLength": 25
+}

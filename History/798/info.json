@@ -1,0 +1,9 @@
+{
+  "municipality": "Hilvarenbeek",
+  "population": 15334,
+  "municipalityNr": 798,
+  "csv": "hilvarenbeek.csv",
+  "csvLines": 26,
+  "json": "hilvarenbeek.json",
+  "jsonLength": 25
+}

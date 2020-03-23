@@ -1,0 +1,9 @@
+{
+  "municipality": "Leiderdorp",
+  "population": 27109,
+  "municipalityNr": 547,
+  "csv": "leiderdorp.csv",
+  "csvLines": 26,
+  "json": "leiderdorp.json",
+  "jsonLength": 25
+}

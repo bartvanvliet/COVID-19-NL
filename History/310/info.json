@@ -1,0 +1,9 @@
+{
+  "municipality": "De Bilt",
+  "population": 42824,
+  "municipalityNr": 310,
+  "csv": "de-bilt.csv",
+  "csvLines": 26,
+  "json": "de-bilt.json",
+  "jsonLength": 25
+}

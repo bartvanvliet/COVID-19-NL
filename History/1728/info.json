@@ -1,0 +1,9 @@
+{
+  "municipality": "Bladel",
+  "population": 20175,
+  "municipalityNr": 1728,
+  "csv": "bladel.csv",
+  "csvLines": 26,
+  "json": "bladel.json",
+  "jsonLength": 25
+}

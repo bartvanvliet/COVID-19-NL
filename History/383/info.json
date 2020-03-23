@@ -1,0 +1,9 @@
+{
+  "municipality": "Castricum",
+  "population": 35772,
+  "municipalityNr": 383,
+  "csv": "castricum.csv",
+  "csvLines": 26,
+  "json": "castricum.json",
+  "jsonLength": 25
+}

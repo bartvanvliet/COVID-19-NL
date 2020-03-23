@@ -1,0 +1,9 @@
+{
+  "municipality": "Doesburg",
+  "population": 11148,
+  "municipalityNr": 221,
+  "csv": "doesburg.csv",
+  "csvLines": 26,
+  "json": "doesburg.json",
+  "jsonLength": 25
+}

@@ -1,0 +1,9 @@
+{
+  "municipality": "Westerwolde",
+  "population": 25199,
+  "municipalityNr": 1950,
+  "csv": "westerwolde.csv",
+  "csvLines": 26,
+  "json": "westerwolde.json",
+  "jsonLength": 25
+}

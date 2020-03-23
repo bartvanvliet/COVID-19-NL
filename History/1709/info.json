@@ -1,0 +1,9 @@
+{
+  "municipality": "Moerdijk",
+  "population": 36961,
+  "municipalityNr": 1709,
+  "csv": "moerdijk.csv",
+  "csvLines": 26,
+  "json": "moerdijk.json",
+  "jsonLength": 25
+}

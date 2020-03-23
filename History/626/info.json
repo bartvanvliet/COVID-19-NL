@@ -1,0 +1,9 @@
+{
+  "municipality": "Voorschoten",
+  "population": 25479,
+  "municipalityNr": 626,
+  "csv": "voorschoten.csv",
+  "csvLines": 26,
+  "json": "voorschoten.json",
+  "jsonLength": 25
+}

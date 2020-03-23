@@ -1,0 +1,9 @@
+{
+  "municipality": "Gooise Meren",
+  "population": 57715,
+  "municipalityNr": 1942,
+  "csv": "gooise-meren.csv",
+  "csvLines": 26,
+  "json": "gooise-meren.json",
+  "jsonLength": 25
+}

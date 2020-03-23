@@ -1,0 +1,9 @@
+{
+  "municipality": "West Betuwe",
+  "population": 50697,
+  "municipalityNr": 1960,
+  "csv": "west-betuwe.csv",
+  "csvLines": 26,
+  "json": "west-betuwe.json",
+  "jsonLength": 25
+}

@@ -1,0 +1,9 @@
+{
+  "municipality": "Voerendaal",
+  "population": 12452,
+  "municipalityNr": 986,
+  "csv": "voerendaal.csv",
+  "csvLines": 26,
+  "json": "voerendaal.json",
+  "jsonLength": 25
+}
