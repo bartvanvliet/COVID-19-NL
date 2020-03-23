@@ -234,10 +234,10 @@ export async function triggerHistoryUpdate() {
     const municipalityKeys = Object.keys(municipalities);
     let municipalitiesArray: MunicipalityHistoryCache[] = [];
 
-    const dateOptions = _.uniq(_.flatten(Object.keys(municipalities)
+    const dateOptions: string[] = _.uniq(_.flatten(Object.keys(municipalities)
         .map((municipalityKey) => municipalities[ municipalityKey as any ].data)
-        .map((data) => data.map((dataItem) => dataItem.date))))
-        .sort();
+        .map((data) => data.map((dataItem): string => dataItem.date))))
+        .sort() as string[];
 
     for (let index = 0; index < municipalityKeys.length; index++) {
         const municipalityKey = municipalityKeys[ index ];
