@@ -3,7 +3,7 @@
   "population": 25372,
   "municipalityNr": 1681,
   "csv": "borger-odoorn.csv",
-  "csvLines": 27,
+  "csvLines": 30,
   "json": "borger-odoorn.json",
-  "jsonLength": 26
+  "jsonLength": 29
 }

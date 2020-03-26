@@ -206,5 +206,29 @@
     "Rise": 1,
     "RiseInAvgOverPopulation": 0.9,
     "RiseRelativeToDate": "03-22-2020"
+  },
+  {
+    "Date": "03-24-2020",
+    "Amount": 94,
+    "AvgOverPop": 77.3,
+    "Rise": 34,
+    "RiseInAvgOverPopulation": 27.9,
+    "RiseRelativeToDate": "03-23-2020"
+  },
+  {
+    "Date": "03-25-2020",
+    "Amount": 112,
+    "AvgOverPop": 92.1,
+    "Rise": 18,
+    "RiseInAvgOverPopulation": 14.8,
+    "RiseRelativeToDate": "03-24-2020"
+  },
+  {
+    "Date": "03-26-2020",
+    "Amount": 118,
+    "AvgOverPop": 97.1,
+    "Rise": 6,
+    "RiseInAvgOverPopulation": 5,
+    "RiseRelativeToDate": "03-25-2020"
   }
 ]
