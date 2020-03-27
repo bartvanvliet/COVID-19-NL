@@ -3,7 +3,7 @@
   "population": 73004,
   "municipalityNr": 405,
   "csv": "hoorn.csv",
-  "csvLines": 27,
+  "csvLines": 31,
   "json": "hoorn.json",
-  "jsonLength": 26
+  "jsonLength": 30
 }

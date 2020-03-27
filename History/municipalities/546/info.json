@@ -3,7 +3,7 @@
   "population": 124899,
   "municipalityNr": 546,
   "csv": "leiden.csv",
-  "csvLines": 27,
+  "csvLines": 31,
   "json": "leiden.json",
-  "jsonLength": 26
+  "jsonLength": 30
 }

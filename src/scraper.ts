@@ -40,6 +40,6 @@ console.log((municipalityJob.nextDates(10) as any[]).map((
 ) => `${i + 1} => ${date.toString()}`).join('\n'));
 
 if ( process.env.ENV === 'dev' || process.env.FORCE_TRIGGER === 'true' ) {
-    // municipalityJob2.fireOnTick();
-    // triggerHistoryUpdate();
+    municipalityJob.fireOnTick();
+    triggerHistoryUpdate();
 }

@@ -3,7 +3,7 @@
   "population": 20004,
   "municipalityNr": 340,
   "csv": "rhenen.csv",
-  "csvLines": 27,
+  "csvLines": 31,
   "json": "rhenen.json",
-  "jsonLength": 26
+  "jsonLength": 30
 }

@@ -3,7 +3,7 @@
   "population": 53779,
   "municipalityNr": 166,
   "csv": "kampen.csv",
-  "csvLines": 27,
+  "csvLines": 31,
   "json": "kampen.json",
-  "jsonLength": 26
+  "jsonLength": 30
 }

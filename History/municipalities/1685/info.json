@@ -3,7 +3,7 @@
   "population": 15529,
   "municipalityNr": 1685,
   "csv": "landerd.csv",
-  "csvLines": 27,
+  "csvLines": 31,
   "json": "landerd.json",
-  "jsonLength": 26
+  "jsonLength": 30
 }

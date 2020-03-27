@@ -3,7 +3,7 @@
   "population": 25882,
   "municipalityNr": 209,
   "csv": "beuningen.csv",
-  "csvLines": 27,
+  "csvLines": 31,
   "json": "beuningen.json",
-  "jsonLength": 26
+  "jsonLength": 30
 }

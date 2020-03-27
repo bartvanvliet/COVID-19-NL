@@ -3,7 +3,7 @@
   "population": 36099,
   "municipalityNr": 385,
   "csv": "edam-volendam.csv",
-  "csvLines": 27,
+  "csvLines": 31,
   "json": "edam-volendam.json",
-  "jsonLength": 26
+  "jsonLength": 30
 }

@@ -3,7 +3,7 @@
   "population": 45337,
   "municipalityNr": 861,
   "csv": "veldhoven.csv",
-  "csvLines": 27,
+  "csvLines": 31,
   "json": "veldhoven.json",
-  "jsonLength": 26
+  "jsonLength": 30
 }

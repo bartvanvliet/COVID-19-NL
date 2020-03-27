@@ -3,7 +3,7 @@
   "population": 101603,
   "municipalityNr": 983,
   "csv": "venlo.csv",
-  "csvLines": 27,
+  "csvLines": 31,
   "json": "venlo.json",
-  "jsonLength": 26
+  "jsonLength": 30
 }

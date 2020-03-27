@@ -3,7 +3,7 @@
   "population": 17315,
   "municipalityNr": 852,
   "csv": "waterland.csv",
-  "csvLines": 27,
+  "csvLines": 31,
   "json": "waterland.json",
-  "jsonLength": 26
+  "jsonLength": 30
 }
