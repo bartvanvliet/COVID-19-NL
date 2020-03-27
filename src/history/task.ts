@@ -10,7 +10,6 @@ import { appDir, write, writeJson } from '../util/writers';
 import slugify from 'slugify';
 
 const jsonFolder = path.join(appDir, folder('json'));
-const files = require(path.join(jsonFolder, 'files.json'));
 
 function previousItem(data: MunicipalityHistoryData[]): MunicipalityHistoryData {
     if ( data.length === 0 ) {
@@ -188,6 +187,9 @@ function fromCountryJsonToCsv(countryData: any[]) {
 export async function triggerHistoryUpdate() {
     console.log('Triggering history update.');
     let municipalities: { [ gemnr: number ]: MunicipalityHistoryCache } = {};
+
+    const files = require(path.join(jsonFolder, 'files.json'));
+
     for (let file of files) {
         const jsonFile: MunicipalityData[] = require(path.join(jsonFolder, file)) as MunicipalityData[];
         const currentMoment = moment(file.split('-latest.json').join(''), format).tz('Europe/Amsterdam');
