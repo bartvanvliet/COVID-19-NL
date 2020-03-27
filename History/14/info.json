@@ -1,9 +1,0 @@
-{
-  "municipality": "Groningen",
-  "population": 231299,
-  "municipalityNr": 14,
-  "csv": "groningen.csv",
-  "csvLines": 26,
-  "json": "groningen.json",
-  "jsonLength": 25
-}

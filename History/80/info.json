@@ -1,9 +1,0 @@
-{
-  "municipality": "Leeuwarden",
-  "population": 123107,
-  "municipalityNr": 80,
-  "csv": "leeuwarden.csv",
-  "csvLines": 26,
-  "json": "leeuwarden.json",
-  "jsonLength": 25
-}

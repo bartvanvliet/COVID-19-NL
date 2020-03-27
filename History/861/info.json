@@ -1,9 +1,0 @@
-{
-  "municipality": "Veldhoven",
-  "population": 45337,
-  "municipalityNr": 861,
-  "csv": "veldhoven.csv",
-  "csvLines": 26,
-  "json": "veldhoven.json",
-  "jsonLength": 25
-}

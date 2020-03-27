@@ -1,9 +1,0 @@
-{
-  "municipality": "Wageningen",
-  "population": 38774,
-  "municipalityNr": 289,
-  "csv": "wageningen.csv",
-  "csvLines": 26,
-  "json": "wageningen.json",
-  "jsonLength": 25
-}
