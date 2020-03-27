@@ -3,7 +3,7 @@
   "population": 41273,
   "municipalityNr": 406,
   "csv": "huizen.csv",
-  "csvLines": 30,
+  "csvLines": 27,
   "json": "huizen.json",
-  "jsonLength": 29
+  "jsonLength": 26
 }
