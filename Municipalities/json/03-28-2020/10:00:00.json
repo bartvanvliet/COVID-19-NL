@@ -1,31 +1,31 @@
 [
   {
-    "Aantal": 117,
+    "Aantal": 108,
     "BevAant": 155113,
     "Gemeente": "'s-Hertogenbosch",
     "Gemnr": 796,
-    "GemiddeldOverBev": 75.4
+    "GemiddeldOverBev": 69.6
   },
   {
-    "Aantal": 279,
+    "Aantal": 265,
     "BevAant": 0,
-    "Gemeente": "* Bij 279 personen is de woonplaats niet van bekend",
+    "Gemeente": "* Bij 265 personen is de woonplaats niet van bekend",
     "Gemnr": -1,
     "GemiddeldOverBev": 0
   },
   {
-    "Aantal": 4,
+    "Aantal": 3,
     "BevAant": 25453,
     "Gemeente": "Aa en Hunze",
     "Gemnr": 1680,
-    "GemiddeldOverBev": 15.7
+    "GemiddeldOverBev": 11.8
   },
   {
-    "Aantal": 16,
+    "Aantal": 12,
     "BevAant": 31857,
     "Gemeente": "Aalsmeer",
     "Gemnr": 358,
-    "GemiddeldOverBev": 50.2
+    "GemiddeldOverBev": 37.7
   },
   {
     "Aantal": 3,
@@ -49,53 +49,53 @@
     "GemiddeldOverBev": 29.8
   },
   {
-    "Aantal": 23,
+    "Aantal": 21,
     "BevAant": 25589,
     "Gemeente": "Albrandswaard",
     "Gemnr": 613,
-    "GemiddeldOverBev": 89.9
+    "GemiddeldOverBev": 82.1
   },
   {
-    "Aantal": 42,
+    "Aantal": 36,
     "BevAant": 109444,
     "Gemeente": "Alkmaar",
     "Gemnr": 361,
-    "GemiddeldOverBev": 38.4
+    "GemiddeldOverBev": 32.9
   },
   {
-    "Aantal": 15,
+    "Aantal": 14,
     "BevAant": 73080,
     "Gemeente": "Almelo",
     "Gemnr": 141,
-    "GemiddeldOverBev": 20.5
+    "GemiddeldOverBev": 19.2
   },
   {
-    "Aantal": 48,
+    "Aantal": 39,
     "BevAant": 211840,
     "Gemeente": "Almere",
     "Gemnr": 34,
-    "GemiddeldOverBev": 22.7
+    "GemiddeldOverBev": 18.4
   },
   {
-    "Aantal": 35,
+    "Aantal": 32,
     "BevAant": 111889,
     "Gemeente": "Alphen aan den Rijn",
     "Gemnr": 484,
-    "GemiddeldOverBev": 31.3
+    "GemiddeldOverBev": 28.6
   },
   {
-    "Aantal": 21,
+    "Aantal": 19,
     "BevAant": 10213,
     "Gemeente": "Alphen-Chaam",
     "Gemnr": 1723,
-    "GemiddeldOverBev": 205.6
+    "GemiddeldOverBev": 186
   },
   {
-    "Aantal": 41,
+    "Aantal": 39,
     "BevAant": 55980,
     "Gemeente": "Altena",
     "Gemnr": 1959,
-    "GemiddeldOverBev": 73.2
+    "GemiddeldOverBev": 69.7
   },
   {
     "Aantal": 0,
@@ -105,32 +105,32 @@
     "GemiddeldOverBev": 0
   },
   {
-    "Aantal": 63,
+    "Aantal": 59,
     "BevAant": 157279,
     "Gemeente": "Amersfoort",
     "Gemnr": 307,
-    "GemiddeldOverBev": 40.1
-  },
-  {
-    "Aantal": 63,
-    "BevAant": 91691,
-    "Gemeente": "Amstelveen",
-    "Gemnr": 362,
-    "GemiddeldOverBev": 68.7
-  },
-  {
-    "Aantal": 477,
-    "BevAant": 872779,
-    "Gemeente": "Amsterdam",
-    "Gemnr": 363,
-    "GemiddeldOverBev": 54.7
+    "GemiddeldOverBev": 37.5
   },
   {
     "Aantal": 52,
+    "BevAant": 91691,
+    "Gemeente": "Amstelveen",
+    "Gemnr": 362,
+    "GemiddeldOverBev": 56.7
+  },
+  {
+    "Aantal": 411,
+    "BevAant": 872779,
+    "Gemeente": "Amsterdam",
+    "Gemnr": 363,
+    "GemiddeldOverBev": 47.1
+  },
+  {
+    "Aantal": 49,
     "BevAant": 163829,
     "Gemeente": "Apeldoorn",
     "Gemnr": 200,
-    "GemiddeldOverBev": 31.7
+    "GemiddeldOverBev": 29.9
   },
   {
     "Aantal": 1,
@@ -140,25 +140,25 @@
     "GemiddeldOverBev": 8.6
   },
   {
-    "Aantal": 52,
+    "Aantal": 46,
     "BevAant": 161368,
     "Gemeente": "Arnhem",
     "Gemnr": 202,
-    "GemiddeldOverBev": 32.2
+    "GemiddeldOverBev": 28.5
   },
   {
-    "Aantal": 10,
+    "Aantal": 8,
     "BevAant": 68606,
     "Gemeente": "Assen",
     "Gemnr": 106,
-    "GemiddeldOverBev": 14.6
+    "GemiddeldOverBev": 11.7
   },
   {
-    "Aantal": 10,
+    "Aantal": 8,
     "BevAant": 16734,
     "Gemeente": "Asten",
     "Gemnr": 743,
-    "GemiddeldOverBev": 59.8
+    "GemiddeldOverBev": 47.8
   },
   {
     "Aantal": 2,
@@ -168,39 +168,39 @@
     "GemiddeldOverBev": 29.2
   },
   {
-    "Aantal": 6,
+    "Aantal": 5,
     "BevAant": 24873,
     "Gemeente": "Baarn",
     "Gemnr": 308,
-    "GemiddeldOverBev": 24.1
+    "GemiddeldOverBev": 20.1
   },
   {
-    "Aantal": 28,
+    "Aantal": 21,
     "BevAant": 48713,
     "Gemeente": "Barendrecht",
     "Gemnr": 489,
-    "GemiddeldOverBev": 57.5
+    "GemiddeldOverBev": 43.1
   },
   {
-    "Aantal": 19,
+    "Aantal": 17,
     "BevAant": 59077,
     "Gemeente": "Barneveld",
     "Gemnr": 203,
-    "GemiddeldOverBev": 32.2
+    "GemiddeldOverBev": 28.8
   },
   {
-    "Aantal": 14,
+    "Aantal": 13,
     "BevAant": 15868,
     "Gemeente": "Beek",
     "Gemnr": 888,
-    "GemiddeldOverBev": 88.2
+    "GemiddeldOverBev": 81.9
   },
   {
-    "Aantal": 37,
+    "Aantal": 34,
     "BevAant": 35976,
     "Gemeente": "Beekdaelen",
     "Gemnr": 1954,
-    "GemiddeldOverBev": 102.8
+    "GemiddeldOverBev": 94.5
   },
   {
     "Aantal": 4,
@@ -210,25 +210,25 @@
     "GemiddeldOverBev": 39.9
   },
   {
-    "Aantal": 13,
+    "Aantal": 11,
     "BevAant": 13483,
     "Gemeente": "Beesel",
     "Gemnr": 889,
-    "GemiddeldOverBev": 96.4
+    "GemiddeldOverBev": 81.6
   },
   {
-    "Aantal": 53,
+    "Aantal": 44,
     "BevAant": 34990,
     "Gemeente": "Berg en Dal",
     "Gemnr": 1945,
-    "GemiddeldOverBev": 151.5
+    "GemiddeldOverBev": 125.8
   },
   {
-    "Aantal": 14,
+    "Aantal": 13,
     "BevAant": 18638,
     "Gemeente": "Bergeijk",
     "Gemnr": 1724,
-    "GemiddeldOverBev": 75.1
+    "GemiddeldOverBev": 69.7
   },
   {
     "Aantal": 2,
@@ -238,18 +238,18 @@
     "GemiddeldOverBev": 15.3
   },
   {
-    "Aantal": 20,
+    "Aantal": 16,
     "BevAant": 29844,
     "Gemeente": "Bergen (NH.)",
     "Gemnr": 373,
-    "GemiddeldOverBev": 67
+    "GemiddeldOverBev": 53.6
   },
   {
-    "Aantal": 17,
+    "Aantal": 15,
     "BevAant": 67489,
     "Gemeente": "Bergen op Zoom",
     "Gemnr": 748,
-    "GemiddeldOverBev": 25.2
+    "GemiddeldOverBev": 22.2
   },
   {
     "Aantal": 2,
@@ -259,11 +259,11 @@
     "GemiddeldOverBev": 4.6
   },
   {
-    "Aantal": 95,
+    "Aantal": 87,
     "BevAant": 31247,
     "Gemeente": "Bernheze",
     "Gemnr": 1721,
-    "GemiddeldOverBev": 304
+    "GemiddeldOverBev": 278.4
   },
   {
     "Aantal": 23,
@@ -273,25 +273,25 @@
     "GemiddeldOverBev": 76.7
   },
   {
-    "Aantal": 18,
+    "Aantal": 16,
     "BevAant": 25891,
     "Gemeente": "Beuningen",
     "Gemnr": 209,
-    "GemiddeldOverBev": 69.5
+    "GemiddeldOverBev": 61.8
   },
   {
-    "Aantal": 17,
+    "Aantal": 13,
     "BevAant": 41613,
     "Gemeente": "Beverwijk",
     "Gemnr": 375,
-    "GemiddeldOverBev": 40.9
+    "GemiddeldOverBev": 31.2
   },
   {
-    "Aantal": 18,
+    "Aantal": 15,
     "BevAant": 20395,
     "Gemeente": "Bladel",
     "Gemnr": 1728,
-    "GemiddeldOverBev": 88.3
+    "GemiddeldOverBev": 73.5
   },
   {
     "Aantal": 6,
@@ -301,25 +301,25 @@
     "GemiddeldOverBev": 52
   },
   {
-    "Aantal": 19,
+    "Aantal": 17,
     "BevAant": 23570,
     "Gemeente": "Bloemendaal",
     "Gemnr": 377,
-    "GemiddeldOverBev": 80.6
+    "GemiddeldOverBev": 72.1
   },
   {
-    "Aantal": 10,
+    "Aantal": 9,
     "BevAant": 34869,
     "Gemeente": "Bodegraven-Reeuwijk",
     "Gemnr": 1901,
-    "GemiddeldOverBev": 28.7
+    "GemiddeldOverBev": 25.8
   },
   {
-    "Aantal": 53,
+    "Aantal": 51,
     "BevAant": 10784,
     "Gemeente": "Boekel",
     "Gemnr": 755,
-    "GemiddeldOverBev": 491.5
+    "GemiddeldOverBev": 472.9
   },
   {
     "Aantal": 1,
@@ -329,11 +329,11 @@
     "GemiddeldOverBev": 3.9
   },
   {
-    "Aantal": 15,
+    "Aantal": 13,
     "BevAant": 23313,
     "Gemeente": "Borne",
     "Gemnr": 147,
-    "GemiddeldOverBev": 64.3
+    "GemiddeldOverBev": 55.8
   },
   {
     "Aantal": 7,
@@ -343,39 +343,39 @@
     "GemiddeldOverBev": 30.8
   },
   {
-    "Aantal": 17,
+    "Aantal": 13,
     "BevAant": 29371,
     "Gemeente": "Boxmeer",
     "Gemnr": 756,
-    "GemiddeldOverBev": 57.9
+    "GemiddeldOverBev": 44.3
   },
   {
-    "Aantal": 24,
+    "Aantal": 22,
     "BevAant": 30803,
     "Gemeente": "Boxtel",
     "Gemnr": 757,
-    "GemiddeldOverBev": 77.9
+    "GemiddeldOverBev": 71.4
   },
   {
-    "Aantal": 227,
+    "Aantal": 215,
     "BevAant": 184271,
     "Gemeente": "Breda",
     "Gemnr": 758,
-    "GemiddeldOverBev": 123.2
+    "GemiddeldOverBev": 116.7
   },
   {
-    "Aantal": 10,
+    "Aantal": 5,
     "BevAant": 17282,
     "Gemeente": "Brielle",
     "Gemnr": 501,
-    "GemiddeldOverBev": 57.9
+    "GemiddeldOverBev": 28.9
   },
   {
-    "Aantal": 9,
+    "Aantal": 8,
     "BevAant": 36052,
     "Gemeente": "Bronckhorst",
     "Gemnr": 1876,
-    "GemiddeldOverBev": 25
+    "GemiddeldOverBev": 22.2
   },
   {
     "Aantal": 5,
@@ -385,25 +385,25 @@
     "GemiddeldOverBev": 24.1
   },
   {
-    "Aantal": 25,
+    "Aantal": 24,
     "BevAant": 27817,
     "Gemeente": "Brunssum",
     "Gemnr": 899,
-    "GemiddeldOverBev": 89.9
+    "GemiddeldOverBev": 86.3
   },
   {
-    "Aantal": 10,
+    "Aantal": 9,
     "BevAant": 15191,
     "Gemeente": "Bunnik",
     "Gemnr": 312,
-    "GemiddeldOverBev": 65.8
+    "GemiddeldOverBev": 59.2
   },
   {
-    "Aantal": 4,
+    "Aantal": 3,
     "BevAant": 21867,
     "Gemeente": "Bunschoten",
     "Gemnr": 313,
-    "GemiddeldOverBev": 18.3
+    "GemiddeldOverBev": 13.7
   },
   {
     "Aantal": 7,
@@ -413,25 +413,25 @@
     "GemiddeldOverBev": 26.2
   },
   {
-    "Aantal": 41,
+    "Aantal": 31,
     "BevAant": 67151,
     "Gemeente": "Capelle aan den IJssel",
     "Gemnr": 502,
-    "GemiddeldOverBev": 61.1
+    "GemiddeldOverBev": 46.2
   },
   {
-    "Aantal": 19,
+    "Aantal": 18,
     "BevAant": 35988,
     "Gemeente": "Castricum",
     "Gemnr": 383,
-    "GemiddeldOverBev": 52.8
+    "GemiddeldOverBev": 50
   },
   {
-    "Aantal": 20,
+    "Aantal": 17,
     "BevAant": 35296,
     "Gemeente": "Coevorden",
     "Gemnr": 109,
-    "GemiddeldOverBev": 56.7
+    "GemiddeldOverBev": 48.2
   },
   {
     "Aantal": 42,
@@ -441,25 +441,25 @@
     "GemiddeldOverBev": 198.4
   },
   {
-    "Aantal": 10,
+    "Aantal": 8,
     "BevAant": 25139,
     "Gemeente": "Cuijk",
     "Gemnr": 1684,
-    "GemiddeldOverBev": 39.8
+    "GemiddeldOverBev": 31.8
   },
   {
-    "Aantal": 16,
+    "Aantal": 14,
     "BevAant": 28956,
     "Gemeente": "Culemborg",
     "Gemnr": 216,
-    "GemiddeldOverBev": 55.3
+    "GemiddeldOverBev": 48.3
   },
   {
-    "Aantal": 15,
+    "Aantal": 14,
     "BevAant": 28585,
     "Gemeente": "Dalfsen",
     "Gemnr": 148,
-    "GemiddeldOverBev": 52.5
+    "GemiddeldOverBev": 49
   },
   {
     "Aantal": 1,
@@ -469,18 +469,18 @@
     "GemiddeldOverBev": 5.3
   },
   {
-    "Aantal": 39,
+    "Aantal": 36,
     "BevAant": 43124,
     "Gemeente": "De Bilt",
     "Gemnr": 310,
-    "GemiddeldOverBev": 90.4
+    "GemiddeldOverBev": 83.5
   },
   {
-    "Aantal": 17,
+    "Aantal": 12,
     "BevAant": 51567,
     "Gemeente": "De Fryske Marren",
     "Gemnr": 1940,
-    "GemiddeldOverBev": 33
+    "GemiddeldOverBev": 23.3
   },
   {
     "Aantal": 17,
@@ -490,25 +490,25 @@
     "GemiddeldOverBev": 38.2
   },
   {
-    "Aantal": 7,
+    "Aantal": 3,
     "BevAant": 24327,
     "Gemeente": "De Wolden",
     "Gemnr": 1690,
-    "GemiddeldOverBev": 28.8
+    "GemiddeldOverBev": 12.3
   },
   {
-    "Aantal": 29,
+    "Aantal": 27,
     "BevAant": 103659,
     "Gemeente": "Delft",
     "Gemnr": 503,
-    "GemiddeldOverBev": 28
+    "GemiddeldOverBev": 26
   },
   {
-    "Aantal": 7,
+    "Aantal": 4,
     "BevAant": 24666,
     "Gemeente": "Delfzijl",
     "Gemnr": 10,
-    "GemiddeldOverBev": 28.4
+    "GemiddeldOverBev": 16.2
   },
   {
     "Aantal": 9,
@@ -518,18 +518,18 @@
     "GemiddeldOverBev": 16
   },
   {
-    "Aantal": 46,
+    "Aantal": 42,
     "BevAant": 32474,
     "Gemeente": "Deurne",
     "Gemnr": 762,
-    "GemiddeldOverBev": 141.7
+    "GemiddeldOverBev": 129.3
   },
   {
-    "Aantal": 45,
+    "Aantal": 33,
     "BevAant": 100718,
     "Gemeente": "Deventer",
     "Gemnr": 150,
-    "GemiddeldOverBev": 44.7
+    "GemiddeldOverBev": 32.8
   },
   {
     "Aantal": 7,
@@ -539,11 +539,11 @@
     "GemiddeldOverBev": 22.7
   },
   {
-    "Aantal": 30,
+    "Aantal": 28,
     "BevAant": 26470,
     "Gemeente": "Dinkelland",
     "Gemnr": 1774,
-    "GemiddeldOverBev": 113.3
+    "GemiddeldOverBev": 105.8
   },
   {
     "Aantal": 6,
@@ -553,39 +553,39 @@
     "GemiddeldOverBev": 54.2
   },
   {
-    "Aantal": 18,
+    "Aantal": 17,
     "BevAant": 58009,
     "Gemeente": "Doetinchem",
     "Gemnr": 222,
-    "GemiddeldOverBev": 31
+    "GemiddeldOverBev": 29.3
   },
   {
-    "Aantal": 12,
+    "Aantal": 10,
     "BevAant": 26226,
     "Gemeente": "Dongen",
     "Gemnr": 766,
-    "GemiddeldOverBev": 45.8
+    "GemiddeldOverBev": 38.1
   },
   {
-    "Aantal": 36,
+    "Aantal": 32,
     "BevAant": 119300,
     "Gemeente": "Dordrecht",
     "Gemnr": 505,
-    "GemiddeldOverBev": 30.2
+    "GemiddeldOverBev": 26.8
   },
   {
-    "Aantal": 5,
+    "Aantal": 4,
     "BevAant": 19717,
     "Gemeente": "Drechterland",
     "Gemnr": 498,
-    "GemiddeldOverBev": 25.4
+    "GemiddeldOverBev": 20.3
   },
   {
-    "Aantal": 26,
+    "Aantal": 24,
     "BevAant": 27274,
     "Gemeente": "Drimmelen",
     "Gemnr": 1719,
-    "GemiddeldOverBev": 95.3
+    "GemiddeldOverBev": 88
   },
   {
     "Aantal": 11,
@@ -595,25 +595,25 @@
     "GemiddeldOverBev": 26.5
   },
   {
-    "Aantal": 13,
+    "Aantal": 11,
     "BevAant": 18918,
     "Gemeente": "Druten",
     "Gemnr": 225,
-    "GemiddeldOverBev": 68.7
+    "GemiddeldOverBev": 58.1
   },
   {
-    "Aantal": 6,
+    "Aantal": 4,
     "BevAant": 25124,
     "Gemeente": "Duiven",
     "Gemnr": 226,
-    "GemiddeldOverBev": 23.9
+    "GemiddeldOverBev": 15.9
   },
   {
-    "Aantal": 28,
+    "Aantal": 25,
     "BevAant": 31618,
     "Gemeente": "Echt-Susteren",
     "Gemnr": 1711,
-    "GemiddeldOverBev": 88.6
+    "GemiddeldOverBev": 79.1
   },
   {
     "Aantal": 14,
@@ -623,11 +623,11 @@
     "GemiddeldOverBev": 38.7
   },
   {
-    "Aantal": 46,
+    "Aantal": 37,
     "BevAant": 117166,
     "Gemeente": "Ede",
     "Gemnr": 228,
-    "GemiddeldOverBev": 39.3
+    "GemiddeldOverBev": 31.6
   },
   {
     "Aantal": 1,
@@ -637,39 +637,39 @@
     "GemiddeldOverBev": 10.8
   },
   {
-    "Aantal": 17,
+    "Aantal": 15,
     "BevAant": 19314,
     "Gemeente": "Eersel",
     "Gemnr": 770,
-    "GemiddeldOverBev": 88
+    "GemiddeldOverBev": 77.7
   },
   {
-    "Aantal": 43,
+    "Aantal": 32,
     "BevAant": 25753,
     "Gemeente": "Eijsden-Margraten",
     "Gemnr": 1903,
-    "GemiddeldOverBev": 167
+    "GemiddeldOverBev": 124.3
   },
   {
-    "Aantal": 128,
+    "Aantal": 113,
     "BevAant": 234456,
     "Gemeente": "Eindhoven",
     "Gemnr": 772,
-    "GemiddeldOverBev": 54.6
+    "GemiddeldOverBev": 48.2
   },
   {
-    "Aantal": 11,
+    "Aantal": 9,
     "BevAant": 23161,
     "Gemeente": "Elburg",
     "Gemnr": 230,
-    "GemiddeldOverBev": 47.5
+    "GemiddeldOverBev": 38.9
   },
   {
-    "Aantal": 12,
+    "Aantal": 10,
     "BevAant": 107055,
     "Gemeente": "Emmen",
     "Gemnr": 114,
-    "GemiddeldOverBev": 11.2
+    "GemiddeldOverBev": 9.3
   },
   {
     "Aantal": 17,
@@ -679,74 +679,74 @@
     "GemiddeldOverBev": 91.4
   },
   {
-    "Aantal": 49,
+    "Aantal": 45,
     "BevAant": 159734,
     "Gemeente": "Enschede",
     "Gemnr": 153,
-    "GemiddeldOverBev": 30.7
+    "GemiddeldOverBev": 28.2
   },
   {
-    "Aantal": 20,
+    "Aantal": 18,
     "BevAant": 33186,
     "Gemeente": "Epe",
     "Gemnr": 232,
-    "GemiddeldOverBev": 60.3
+    "GemiddeldOverBev": 54.2
   },
   {
-    "Aantal": 19,
+    "Aantal": 18,
     "BevAant": 27005,
     "Gemeente": "Ermelo",
     "Gemnr": 233,
-    "GemiddeldOverBev": 70.4
+    "GemiddeldOverBev": 66.7
   },
   {
-    "Aantal": 50,
+    "Aantal": 40,
     "BevAant": 43880,
     "Gemeente": "Etten-Leur",
     "Gemnr": 777,
-    "GemiddeldOverBev": 113.9
+    "GemiddeldOverBev": 91.2
   },
   {
-    "Aantal": 12,
+    "Aantal": 11,
     "BevAant": 21538,
     "Gemeente": "Geertruidenberg",
     "Gemnr": 779,
-    "GemiddeldOverBev": 55.7
+    "GemiddeldOverBev": 51.1
   },
   {
-    "Aantal": 22,
+    "Aantal": 20,
     "BevAant": 39733,
     "Gemeente": "Geldrop-Mierlo",
     "Gemnr": 1771,
-    "GemiddeldOverBev": 55.4
+    "GemiddeldOverBev": 50.3
   },
   {
-    "Aantal": 82,
+    "Aantal": 76,
     "BevAant": 30725,
     "Gemeente": "Gemert-Bakel",
     "Gemnr": 1652,
-    "GemiddeldOverBev": 266.9
+    "GemiddeldOverBev": 247.4
   },
   {
-    "Aantal": 14,
+    "Aantal": 9,
     "BevAant": 16924,
     "Gemeente": "Gennep",
     "Gemnr": 907,
-    "GemiddeldOverBev": 82.7
+    "GemiddeldOverBev": 53.2
   },
   {
-    "Aantal": 25,
+    "Aantal": 22,
     "BevAant": 26438,
     "Gemeente": "Gilze en Rijen",
     "Gemnr": 784,
-    "GemiddeldOverBev": 94.6
+    "GemiddeldOverBev": 83.2
   },
   {
-    "Aantal": 92,
+    "Aantal": 77,
     "BevAant": 50049,
     "Gemeente": "Goeree-Overflakkee",
     "Gemnr": 1924,
-    "GemiddeldOverBev": 183.8
+    "GemiddeldOverBev": 153.8
   },
   {
     "Aantal": 12,
@@ -756,95 +756,95 @@
     "GemiddeldOverBev": 31.5
   },
   {
-    "Aantal": 26,
+    "Aantal": 24,
     "BevAant": 23906,
     "Gemeente": "Goirle",
     "Gemnr": 785,
-    "GemiddeldOverBev": 108.8
+    "GemiddeldOverBev": 100.4
   },
   {
-    "Aantal": 25,
+    "Aantal": 24,
     "BevAant": 58041,
     "Gemeente": "Gooise Meren",
     "Gemnr": 1942,
-    "GemiddeldOverBev": 43.1
+    "GemiddeldOverBev": 41.4
   },
   {
-    "Aantal": 14,
+    "Aantal": 13,
     "BevAant": 37009,
     "Gemeente": "Gorinchem",
     "Gemnr": 512,
-    "GemiddeldOverBev": 37.8
+    "GemiddeldOverBev": 35.1
   },
   {
-    "Aantal": 35,
+    "Aantal": 31,
     "BevAant": 73443,
     "Gemeente": "Gouda",
     "Gemnr": 513,
-    "GemiddeldOverBev": 47.7
-  },
-  {
-    "Aantal": 19,
-    "BevAant": 12437,
-    "Gemeente": "Grave",
-    "Gemnr": 786,
-    "GemiddeldOverBev": 152.8
-  },
-  {
-    "Aantal": 85,
-    "BevAant": 232922,
-    "Gemeente": "Groningen",
-    "Gemnr": 14,
-    "GemiddeldOverBev": 36.5
-  },
-  {
-    "Aantal": 8,
-    "BevAant": 14176,
-    "Gemeente": "Gulpen-Wittem",
-    "Gemnr": 1729,
-    "GemiddeldOverBev": 56.4
-  },
-  {
-    "Aantal": 9,
-    "BevAant": 24309,
-    "Gemeente": "Haaksbergen",
-    "Gemnr": 158,
-    "GemiddeldOverBev": 37
-  },
-  {
-    "Aantal": 21,
-    "BevAant": 14371,
-    "Gemeente": "Haaren",
-    "Gemnr": 788,
-    "GemiddeldOverBev": 146.1
-  },
-  {
-    "Aantal": 73,
-    "BevAant": 162961,
-    "Gemeente": "Haarlem",
-    "Gemnr": 392,
-    "GemiddeldOverBev": 44.8
-  },
-  {
-    "Aantal": 45,
-    "BevAant": 156039,
-    "Gemeente": "Haarlemmermeer",
-    "Gemnr": 394,
-    "GemiddeldOverBev": 28.8
-  },
-  {
-    "Aantal": 12,
-    "BevAant": 30277,
-    "Gemeente": "Halderberge",
-    "Gemnr": 1655,
-    "GemiddeldOverBev": 39.6
+    "GemiddeldOverBev": 42.2
   },
   {
     "Aantal": 16,
+    "BevAant": 12437,
+    "Gemeente": "Grave",
+    "Gemnr": 786,
+    "GemiddeldOverBev": 128.6
+  },
+  {
+    "Aantal": 80,
+    "BevAant": 232922,
+    "Gemeente": "Groningen",
+    "Gemnr": 14,
+    "GemiddeldOverBev": 34.3
+  },
+  {
+    "Aantal": 7,
+    "BevAant": 14176,
+    "Gemeente": "Gulpen-Wittem",
+    "Gemnr": 1729,
+    "GemiddeldOverBev": 49.4
+  },
+  {
+    "Aantal": 6,
+    "BevAant": 24309,
+    "Gemeente": "Haaksbergen",
+    "Gemnr": 158,
+    "GemiddeldOverBev": 24.7
+  },
+  {
+    "Aantal": 18,
+    "BevAant": 14371,
+    "Gemeente": "Haaren",
+    "Gemnr": 788,
+    "GemiddeldOverBev": 125.3
+  },
+  {
+    "Aantal": 66,
+    "BevAant": 162961,
+    "Gemeente": "Haarlem",
+    "Gemnr": 392,
+    "GemiddeldOverBev": 40.5
+  },
+  {
+    "Aantal": 40,
+    "BevAant": 156039,
+    "Gemeente": "Haarlemmermeer",
+    "Gemnr": 394,
+    "GemiddeldOverBev": 25.6
+  },
+  {
+    "Aantal": 10,
+    "BevAant": 30277,
+    "Gemeente": "Halderberge",
+    "Gemnr": 1655,
+    "GemiddeldOverBev": 33
+  },
+  {
+    "Aantal": 11,
     "BevAant": 60940,
     "Gemeente": "Hardenberg",
     "Gemnr": 160,
-    "GemiddeldOverBev": 26.3
+    "GemiddeldOverBev": 18.1
   },
   {
     "Aantal": 18,
@@ -875,46 +875,46 @@
     "GemiddeldOverBev": 57.3
   },
   {
-    "Aantal": 19,
+    "Aantal": 16,
     "BevAant": 39188,
     "Gemeente": "Heemskerk",
     "Gemnr": 396,
-    "GemiddeldOverBev": 48.5
+    "GemiddeldOverBev": 40.8
   },
   {
-    "Aantal": 27,
+    "Aantal": 24,
     "BevAant": 27239,
     "Gemeente": "Heemstede",
     "Gemnr": 397,
-    "GemiddeldOverBev": 99.1
+    "GemiddeldOverBev": 88.1
   },
   {
-    "Aantal": 28,
+    "Aantal": 27,
     "BevAant": 18587,
     "Gemeente": "Heerde",
     "Gemnr": 246,
-    "GemiddeldOverBev": 150.6
+    "GemiddeldOverBev": 145.3
   },
   {
-    "Aantal": 7,
+    "Aantal": 5,
     "BevAant": 50494,
     "Gemeente": "Heerenveen",
     "Gemnr": 74,
-    "GemiddeldOverBev": 13.9
+    "GemiddeldOverBev": 9.9
   },
   {
-    "Aantal": 23,
+    "Aantal": 20,
     "BevAant": 57592,
     "Gemeente": "Heerhugowaard",
     "Gemnr": 398,
-    "GemiddeldOverBev": 39.9
+    "GemiddeldOverBev": 34.7
   },
   {
-    "Aantal": 75,
+    "Aantal": 68,
     "BevAant": 87057,
     "Gemeente": "Heerlen",
     "Gemnr": 917,
-    "GemiddeldOverBev": 86.2
+    "GemiddeldOverBev": 78.1
   },
   {
     "Aantal": 12,
@@ -931,25 +931,25 @@
     "GemiddeldOverBev": 54.2
   },
   {
-    "Aantal": 10,
+    "Aantal": 8,
     "BevAant": 35923,
     "Gemeente": "Hellendoorn",
     "Gemnr": 163,
-    "GemiddeldOverBev": 27.8
+    "GemiddeldOverBev": 22.3
   },
   {
-    "Aantal": 15,
+    "Aantal": 10,
     "BevAant": 40158,
     "Gemeente": "Hellevoetsluis",
     "Gemnr": 530,
-    "GemiddeldOverBev": 37.4
+    "GemiddeldOverBev": 24.9
   },
   {
-    "Aantal": 91,
+    "Aantal": 75,
     "BevAant": 92432,
     "Gemeente": "Helmond",
     "Gemnr": 794,
-    "GemiddeldOverBev": 98.5
+    "GemiddeldOverBev": 81.1
   },
   {
     "Aantal": 5,
@@ -959,11 +959,11 @@
     "GemiddeldOverBev": 16
   },
   {
-    "Aantal": 25,
+    "Aantal": 23,
     "BevAant": 81147,
     "Gemeente": "Hengelo",
     "Gemnr": 164,
-    "GemiddeldOverBev": 30.8
+    "GemiddeldOverBev": 28.3
   },
   {
     "Aantal": 7,
@@ -973,32 +973,32 @@
     "GemiddeldOverBev": 14.6
   },
   {
-    "Aantal": 16,
+    "Aantal": 15,
     "BevAant": 16450,
     "Gemeente": "Heumen",
     "Gemnr": 252,
-    "GemiddeldOverBev": 97.3
+    "GemiddeldOverBev": 91.2
   },
   {
-    "Aantal": 39,
+    "Aantal": 37,
     "BevAant": 44699,
     "Gemeente": "Heusden",
     "Gemnr": 797,
-    "GemiddeldOverBev": 87.3
+    "GemiddeldOverBev": 82.8
   },
   {
-    "Aantal": 4,
+    "Aantal": 3,
     "BevAant": 22208,
     "Gemeente": "Hillegom",
     "Gemnr": 534,
-    "GemiddeldOverBev": 18
+    "GemiddeldOverBev": 13.5
   },
   {
-    "Aantal": 12,
+    "Aantal": 10,
     "BevAant": 15514,
     "Gemeente": "Hilvarenbeek",
     "Gemnr": 798,
-    "GemiddeldOverBev": 77.3
+    "GemiddeldOverBev": 64.5
   },
   {
     "Aantal": 24,
@@ -1008,53 +1008,53 @@
     "GemiddeldOverBev": 26.4
   },
   {
-    "Aantal": 55,
+    "Aantal": 51,
     "BevAant": 87461,
     "Gemeente": "Hoeksche Waard",
     "Gemnr": 1963,
-    "GemiddeldOverBev": 62.9
+    "GemiddeldOverBev": 58.3
   },
   {
-    "Aantal": 17,
+    "Aantal": 14,
     "BevAant": 35013,
     "Gemeente": "Hof van Twente",
     "Gemnr": 1735,
-    "GemiddeldOverBev": 48.6
+    "GemiddeldOverBev": 40
   },
   {
-    "Aantal": 18,
+    "Aantal": 17,
     "BevAant": 48434,
     "Gemeente": "Hollands Kroon",
     "Gemnr": 1911,
-    "GemiddeldOverBev": 37.2
+    "GemiddeldOverBev": 35.1
   },
   {
-    "Aantal": 9,
+    "Aantal": 8,
     "BevAant": 55697,
     "Gemeente": "Hoogeveen",
     "Gemnr": 118,
-    "GemiddeldOverBev": 16.2
+    "GemiddeldOverBev": 14.4
   },
   {
-    "Aantal": 20,
+    "Aantal": 17,
     "BevAant": 73232,
     "Gemeente": "Hoorn",
     "Gemnr": 405,
-    "GemiddeldOverBev": 27.3
+    "GemiddeldOverBev": 23.2
   },
   {
-    "Aantal": 27,
+    "Aantal": 25,
     "BevAant": 42433,
     "Gemeente": "Horst aan de Maas",
     "Gemnr": 1507,
-    "GemiddeldOverBev": 63.6
+    "GemiddeldOverBev": 58.9
   },
   {
-    "Aantal": 52,
+    "Aantal": 47,
     "BevAant": 50146,
     "Gemeente": "Houten",
     "Gemnr": 321,
-    "GemiddeldOverBev": 103.7
+    "GemiddeldOverBev": 93.7
   },
   {
     "Aantal": 13,
@@ -1064,32 +1064,32 @@
     "GemiddeldOverBev": 31.5
   },
   {
-    "Aantal": 3,
+    "Aantal": 2,
     "BevAant": 27556,
     "Gemeente": "Hulst",
     "Gemnr": 677,
-    "GemiddeldOverBev": 10.9
+    "GemiddeldOverBev": 7.3
   },
   {
-    "Aantal": 31,
+    "Aantal": 26,
     "BevAant": 34110,
     "Gemeente": "IJsselstein",
     "Gemnr": 353,
-    "GemiddeldOverBev": 90.9
+    "GemiddeldOverBev": 76.2
   },
   {
-    "Aantal": 6,
+    "Aantal": 5,
     "BevAant": 27300,
     "Gemeente": "Kaag en Braassem",
     "Gemnr": 1884,
-    "GemiddeldOverBev": 22
+    "GemiddeldOverBev": 18.3
   },
   {
-    "Aantal": 55,
+    "Aantal": 45,
     "BevAant": 54340,
     "Gemeente": "Kampen",
     "Gemnr": 166,
-    "GemiddeldOverBev": 101.2
+    "GemiddeldOverBev": 82.8
   },
   {
     "Aantal": 2,
@@ -1099,60 +1099,60 @@
     "GemiddeldOverBev": 15.8
   },
   {
-    "Aantal": 19,
+    "Aantal": 15,
     "BevAant": 65754,
     "Gemeente": "Katwijk",
     "Gemnr": 537,
-    "GemiddeldOverBev": 28.9
+    "GemiddeldOverBev": 22.8
   },
   {
-    "Aantal": 32,
+    "Aantal": 28,
     "BevAant": 45744,
     "Gemeente": "Kerkrade",
     "Gemnr": 928,
-    "GemiddeldOverBev": 70
+    "GemiddeldOverBev": 61.2
   },
   {
-    "Aantal": 9,
+    "Aantal": 6,
     "BevAant": 22752,
     "Gemeente": "Koggenland",
     "Gemnr": 1598,
-    "GemiddeldOverBev": 39.6
+    "GemiddeldOverBev": 26.4
   },
   {
-    "Aantal": 12,
+    "Aantal": 7,
     "BevAant": 29533,
     "Gemeente": "Krimpen aan den IJssel",
     "Gemnr": 542,
-    "GemiddeldOverBev": 40.6
+    "GemiddeldOverBev": 23.7
   },
   {
-    "Aantal": 30,
+    "Aantal": 24,
     "BevAant": 56319,
     "Gemeente": "Krimpenerwaard",
     "Gemnr": 1931,
-    "GemiddeldOverBev": 53.3
+    "GemiddeldOverBev": 42.6
   },
   {
-    "Aantal": 39,
+    "Aantal": 33,
     "BevAant": 22530,
     "Gemeente": "Laarbeek",
     "Gemnr": 1659,
-    "GemiddeldOverBev": 173.1
+    "GemiddeldOverBev": 146.5
   },
   {
-    "Aantal": 44,
+    "Aantal": 42,
     "BevAant": 15730,
     "Gemeente": "Landerd",
     "Gemnr": 1685,
-    "GemiddeldOverBev": 279.7
+    "GemiddeldOverBev": 267
   },
   {
-    "Aantal": 29,
+    "Aantal": 28,
     "BevAant": 37457,
     "Gemeente": "Landgraaf",
     "Gemnr": 882,
-    "GemiddeldOverBev": 77.4
+    "GemiddeldOverBev": 74.8
   },
   {
     "Aantal": 7,
@@ -1169,11 +1169,11 @@
     "GemiddeldOverBev": 49.7
   },
   {
-    "Aantal": 45,
+    "Aantal": 34,
     "BevAant": 62396,
     "Gemeente": "Lansingerland",
     "Gemnr": 1621,
-    "GemiddeldOverBev": 72.1
+    "GemiddeldOverBev": 54.5
   },
   {
     "Aantal": 8,
@@ -1183,60 +1183,60 @@
     "GemiddeldOverBev": 71
   },
   {
-    "Aantal": 20,
+    "Aantal": 19,
     "BevAant": 124058,
     "Gemeente": "Leeuwarden",
     "Gemnr": 80,
-    "GemiddeldOverBev": 16.1
+    "GemiddeldOverBev": 15.3
   },
   {
-    "Aantal": 35,
+    "Aantal": 30,
     "BevAant": 125174,
     "Gemeente": "Leiden",
     "Gemnr": 546,
-    "GemiddeldOverBev": 28
+    "GemiddeldOverBev": 24
   },
   {
-    "Aantal": 5,
+    "Aantal": 4,
     "BevAant": 27059,
     "Gemeente": "Leiderdorp",
     "Gemnr": 547,
-    "GemiddeldOverBev": 18.5
+    "GemiddeldOverBev": 14.8
   },
   {
-    "Aantal": 21,
+    "Aantal": 18,
     "BevAant": 76553,
     "Gemeente": "Leidschendam-Voorburg",
     "Gemnr": 1916,
-    "GemiddeldOverBev": 27.4
+    "GemiddeldOverBev": 23.5
   },
   {
-    "Aantal": 31,
+    "Aantal": 29,
     "BevAant": 78619,
     "Gemeente": "Lelystad",
     "Gemnr": 995,
-    "GemiddeldOverBev": 39.4
+    "GemiddeldOverBev": 36.9
   },
   {
-    "Aantal": 41,
+    "Aantal": 37,
     "BevAant": 35896,
     "Gemeente": "Leudal",
     "Gemnr": 1640,
-    "GemiddeldOverBev": 114.2
+    "GemiddeldOverBev": 103.1
   },
   {
-    "Aantal": 17,
+    "Aantal": 16,
     "BevAant": 30399,
     "Gemeente": "Leusden",
     "Gemnr": 327,
-    "GemiddeldOverBev": 55.9
+    "GemiddeldOverBev": 52.6
   },
   {
-    "Aantal": 25,
+    "Aantal": 22,
     "BevAant": 46606,
     "Gemeente": "Lingewaard",
     "Gemnr": 1705,
-    "GemiddeldOverBev": 53.6
+    "GemiddeldOverBev": 47.2
   },
   {
     "Aantal": 3,
@@ -1246,18 +1246,18 @@
     "GemiddeldOverBev": 13.1
   },
   {
-    "Aantal": 14,
+    "Aantal": 11,
     "BevAant": 33730,
     "Gemeente": "Lochem",
     "Gemnr": 262,
-    "GemiddeldOverBev": 41.5
+    "GemiddeldOverBev": 32.6
   },
   {
-    "Aantal": 29,
+    "Aantal": 25,
     "BevAant": 23407,
     "Gemeente": "Loon op Zand",
     "Gemnr": 809,
-    "GemiddeldOverBev": 123.9
+    "GemiddeldOverBev": 106.8
   },
   {
     "Aantal": 13,
@@ -1281,11 +1281,11 @@
     "GemiddeldOverBev": 4.4
   },
   {
-    "Aantal": 8,
+    "Aantal": 6,
     "BevAant": 25034,
     "Gemeente": "Maasdriel",
     "Gemnr": 263,
-    "GemiddeldOverBev": 32
+    "GemiddeldOverBev": 24
   },
   {
     "Aantal": 13,
@@ -1295,165 +1295,165 @@
     "GemiddeldOverBev": 54.3
   },
   {
-    "Aantal": 14,
+    "Aantal": 11,
     "BevAant": 33216,
     "Gemeente": "Maassluis",
     "Gemnr": 556,
-    "GemiddeldOverBev": 42.1
+    "GemiddeldOverBev": 33.1
   },
   {
-    "Aantal": 162,
+    "Aantal": 126,
     "BevAant": 121558,
     "Gemeente": "Maastricht",
     "Gemnr": 935,
-    "GemiddeldOverBev": 133.3
+    "GemiddeldOverBev": 103.7
   },
   {
-    "Aantal": 14,
+    "Aantal": 8,
     "BevAant": 45104,
     "Gemeente": "Medemblik",
     "Gemnr": 420,
-    "GemiddeldOverBev": 31
-  },
-  {
-    "Aantal": 10,
-    "BevAant": 18832,
-    "Gemeente": "Meerssen",
-    "Gemnr": 938,
-    "GemiddeldOverBev": 53.1
-  },
-  {
-    "Aantal": 207,
-    "BevAant": 81197,
-    "Gemeente": "Meierijstad",
-    "Gemnr": 1948,
-    "GemiddeldOverBev": 254.9
-  },
-  {
-    "Aantal": 6,
-    "BevAant": 33902,
-    "Gemeente": "Meppel",
-    "Gemnr": 119,
     "GemiddeldOverBev": 17.7
   },
   {
-    "Aantal": 10,
-    "BevAant": 48810,
-    "Gemeente": "Middelburg",
-    "Gemnr": 687,
-    "GemiddeldOverBev": 20.5
+    "Aantal": 8,
+    "BevAant": 18832,
+    "Gemeente": "Meerssen",
+    "Gemnr": 938,
+    "GemiddeldOverBev": 42.5
+  },
+  {
+    "Aantal": 195,
+    "BevAant": 81197,
+    "Gemeente": "Meierijstad",
+    "Gemnr": 1948,
+    "GemiddeldOverBev": 240.2
   },
   {
     "Aantal": 4,
-    "BevAant": 19344,
-    "Gemeente": "Midden-Delfland",
-    "Gemnr": 1842,
-    "GemiddeldOverBev": 20.7
-  },
-  {
-    "Aantal": 4,
-    "BevAant": 33182,
-    "Gemeente": "Midden-Drenthe",
-    "Gemnr": 1731,
-    "GemiddeldOverBev": 12.1
-  },
-  {
-    "Aantal": 6,
-    "BevAant": 60804,
-    "Gemeente": "Midden-Groningen",
-    "Gemnr": 1952,
-    "GemiddeldOverBev": 9.9
+    "BevAant": 33902,
+    "Gemeente": "Meppel",
+    "Gemnr": 119,
+    "GemiddeldOverBev": 11.8
   },
   {
     "Aantal": 9,
+    "BevAant": 48810,
+    "Gemeente": "Middelburg",
+    "Gemnr": 687,
+    "GemiddeldOverBev": 18.4
+  },
+  {
+    "Aantal": 3,
+    "BevAant": 19344,
+    "Gemeente": "Midden-Delfland",
+    "Gemnr": 1842,
+    "GemiddeldOverBev": 15.5
+  },
+  {
+    "Aantal": 2,
+    "BevAant": 33182,
+    "Gemeente": "Midden-Drenthe",
+    "Gemnr": 1731,
+    "GemiddeldOverBev": 6
+  },
+  {
+    "Aantal": 5,
+    "BevAant": 60804,
+    "Gemeente": "Midden-Groningen",
+    "Gemnr": 1952,
+    "GemiddeldOverBev": 8.2
+  },
+  {
+    "Aantal": 7,
     "BevAant": 10941,
     "Gemeente": "Mill en Sint Hubert",
     "Gemnr": 815,
-    "GemiddeldOverBev": 82.3
-  },
-  {
-    "Aantal": 10,
-    "BevAant": 37136,
-    "Gemeente": "Moerdijk",
-    "Gemnr": 1709,
-    "GemiddeldOverBev": 26.9
-  },
-  {
-    "Aantal": 18,
-    "BevAant": 43931,
-    "Gemeente": "Molenlanden",
-    "Gemnr": 1978,
-    "GemiddeldOverBev": 41
+    "GemiddeldOverBev": 64
   },
   {
     "Aantal": 6,
+    "BevAant": 37136,
+    "Gemeente": "Moerdijk",
+    "Gemnr": 1709,
+    "GemiddeldOverBev": 16.2
+  },
+  {
+    "Aantal": 17,
+    "BevAant": 43931,
+    "Gemeente": "Molenlanden",
+    "Gemnr": 1978,
+    "GemiddeldOverBev": 38.7
+  },
+  {
+    "Aantal": 5,
     "BevAant": 36009,
     "Gemeente": "Montferland",
     "Gemnr": 1955,
-    "GemiddeldOverBev": 16.7
+    "GemiddeldOverBev": 13.9
   },
   {
-    "Aantal": 12,
+    "Aantal": 11,
     "BevAant": 13920,
     "Gemeente": "Montfoort",
     "Gemnr": 335,
-    "GemiddeldOverBev": 86.2
+    "GemiddeldOverBev": 79
   },
   {
-    "Aantal": 8,
+    "Aantal": 5,
     "BevAant": 7847,
     "Gemeente": "Mook en Middelaar",
     "Gemnr": 944,
-    "GemiddeldOverBev": 101.9
+    "GemiddeldOverBev": 63.7
   },
   {
-    "Aantal": 20,
+    "Aantal": 16,
     "BevAant": 24342,
     "Gemeente": "Neder-Betuwe",
     "Gemnr": 1740,
-    "GemiddeldOverBev": 82.2
+    "GemiddeldOverBev": 65.7
   },
   {
-    "Aantal": 24,
+    "Aantal": 21,
     "BevAant": 17022,
     "Gemeente": "Nederweert",
     "Gemnr": 946,
-    "GemiddeldOverBev": 141
+    "GemiddeldOverBev": 123.4
   },
   {
-    "Aantal": 25,
+    "Aantal": 17,
     "BevAant": 63461,
     "Gemeente": "Nieuwegein",
     "Gemnr": 356,
-    "GemiddeldOverBev": 39.4
+    "GemiddeldOverBev": 26.8
   },
   {
-    "Aantal": 8,
+    "Aantal": 7,
     "BevAant": 28809,
     "Gemeente": "Nieuwkoop",
     "Gemnr": 569,
-    "GemiddeldOverBev": 27.8
+    "GemiddeldOverBev": 24.3
   },
   {
-    "Aantal": 18,
+    "Aantal": 15,
     "BevAant": 43176,
     "Gemeente": "Nijkerk",
     "Gemnr": 267,
-    "GemiddeldOverBev": 41.7
+    "GemiddeldOverBev": 34.7
   },
   {
-    "Aantal": 149,
+    "Aantal": 132,
     "BevAant": 177698,
     "Gemeente": "Nijmegen",
     "Gemnr": 268,
-    "GemiddeldOverBev": 83.9
+    "GemiddeldOverBev": 74.3
   },
   {
-    "Aantal": 37,
+    "Aantal": 28,
     "BevAant": 85237,
     "Gemeente": "Nissewaard",
     "Gemnr": 1930,
-    "GemiddeldOverBev": 43.4
+    "GemiddeldOverBev": 32.8
   },
   {
     "Aantal": 4,
@@ -1484,67 +1484,67 @@
     "GemiddeldOverBev": 21.2
   },
   {
-    "Aantal": 15,
+    "Aantal": 10,
     "BevAant": 43528,
     "Gemeente": "Noordwijk",
     "Gemnr": 575,
-    "GemiddeldOverBev": 34.5
-  },
-  {
-    "Aantal": 13,
-    "BevAant": 23379,
-    "Gemeente": "Nuenen, Gerwen en Nederwetten",
-    "Gemnr": 820,
-    "GemiddeldOverBev": 55.6
-  },
-  {
-    "Aantal": 43,
-    "BevAant": 27845,
-    "Gemeente": "Nunspeet",
-    "Gemnr": 302,
-    "GemiddeldOverBev": 154.4
-  },
-  {
-    "Aantal": 13,
-    "BevAant": 24843,
-    "Gemeente": "Oegstgeest",
-    "Gemnr": 579,
-    "GemiddeldOverBev": 52.3
+    "GemiddeldOverBev": 23
   },
   {
     "Aantal": 11,
+    "BevAant": 23379,
+    "Gemeente": "Nuenen, Gerwen en Nederwetten",
+    "Gemnr": 820,
+    "GemiddeldOverBev": 47.1
+  },
+  {
+    "Aantal": 39,
+    "BevAant": 27845,
+    "Gemeente": "Nunspeet",
+    "Gemnr": 302,
+    "GemiddeldOverBev": 140.1
+  },
+  {
+    "Aantal": 12,
+    "BevAant": 24843,
+    "Gemeente": "Oegstgeest",
+    "Gemnr": 579,
+    "GemiddeldOverBev": 48.3
+  },
+  {
+    "Aantal": 10,
     "BevAant": 18723,
     "Gemeente": "Oirschot",
     "Gemnr": 823,
-    "GemiddeldOverBev": 58.8
+    "GemiddeldOverBev": 53.4
   },
   {
-    "Aantal": 24,
+    "Aantal": 23,
     "BevAant": 26241,
     "Gemeente": "Oisterwijk",
     "Gemnr": 824,
-    "GemiddeldOverBev": 91.5
+    "GemiddeldOverBev": 87.6
   },
   {
-    "Aantal": 2,
+    "Aantal": 0,
     "BevAant": 38213,
     "Gemeente": "Oldambt",
     "Gemnr": 1895,
-    "GemiddeldOverBev": 5.2
+    "GemiddeldOverBev": 0
   },
   {
-    "Aantal": 22,
+    "Aantal": 19,
     "BevAant": 23645,
     "Gemeente": "Oldebroek",
     "Gemnr": 269,
-    "GemiddeldOverBev": 93
+    "GemiddeldOverBev": 80.4
   },
   {
-    "Aantal": 18,
+    "Aantal": 17,
     "BevAant": 31832,
     "Gemeente": "Oldenzaal",
     "Gemnr": 173,
-    "GemiddeldOverBev": 56.5
+    "GemiddeldOverBev": 53.4
   },
   {
     "Aantal": 6,
@@ -1554,25 +1554,25 @@
     "GemiddeldOverBev": 32.9
   },
   {
-    "Aantal": 10,
+    "Aantal": 7,
     "BevAant": 18007,
     "Gemeente": "Ommen",
     "Gemnr": 175,
-    "GemiddeldOverBev": 55.5
+    "GemiddeldOverBev": 38.9
   },
   {
-    "Aantal": 8,
+    "Aantal": 7,
     "BevAant": 29623,
     "Gemeente": "Oost Gelre",
     "Gemnr": 1586,
-    "GemiddeldOverBev": 27
+    "GemiddeldOverBev": 23.6
   },
   {
-    "Aantal": 36,
+    "Aantal": 31,
     "BevAant": 55990,
     "Gemeente": "Oosterhout",
     "Gemnr": 826,
-    "GemiddeldOverBev": 64.3
+    "GemiddeldOverBev": 55.4
   },
   {
     "Aantal": 1,
@@ -1603,53 +1603,53 @@
     "GemiddeldOverBev": 20.2
   },
   {
-    "Aantal": 141,
+    "Aantal": 128,
     "BevAant": 91932,
     "Gemeente": "Oss",
     "Gemnr": 828,
-    "GemiddeldOverBev": 153.4
+    "GemiddeldOverBev": 139.2
   },
   {
-    "Aantal": 7,
+    "Aantal": 5,
     "BevAant": 39392,
     "Gemeente": "Oude IJsselstreek",
     "Gemnr": 1509,
-    "GemiddeldOverBev": 17.8
-  },
-  {
-    "Aantal": 9,
-    "BevAant": 14029,
-    "Gemeente": "Ouder-Amstel",
-    "Gemnr": 437,
-    "GemiddeldOverBev": 64.2
-  },
-  {
-    "Aantal": 21,
-    "BevAant": 10226,
-    "Gemeente": "Oudewater",
-    "Gemnr": 589,
-    "GemiddeldOverBev": 205.4
-  },
-  {
-    "Aantal": 54,
-    "BevAant": 47909,
-    "Gemeente": "Overbetuwe",
-    "Gemnr": 1734,
-    "GemiddeldOverBev": 112.7
+    "GemiddeldOverBev": 12.7
   },
   {
     "Aantal": 7,
+    "BevAant": 14029,
+    "Gemeente": "Ouder-Amstel",
+    "Gemnr": 437,
+    "GemiddeldOverBev": 49.9
+  },
+  {
+    "Aantal": 18,
+    "BevAant": 10226,
+    "Gemeente": "Oudewater",
+    "Gemnr": 589,
+    "GemiddeldOverBev": 176
+  },
+  {
+    "Aantal": 51,
+    "BevAant": 47909,
+    "Gemeente": "Overbetuwe",
+    "Gemnr": 1734,
+    "GemiddeldOverBev": 106.5
+  },
+  {
+    "Aantal": 6,
     "BevAant": 32133,
     "Gemeente": "Papendrecht",
     "Gemnr": 590,
-    "GemiddeldOverBev": 21.8
+    "GemiddeldOverBev": 18.7
   },
   {
-    "Aantal": 119,
+    "Aantal": 107,
     "BevAant": 43420,
     "Gemeente": "Peel en Maas",
     "Gemnr": 1894,
-    "GemiddeldOverBev": 274.1
+    "GemiddeldOverBev": 246.4
   },
   {
     "Aantal": 2,
@@ -1659,18 +1659,18 @@
     "GemiddeldOverBev": 16.4
   },
   {
-    "Aantal": 24,
+    "Aantal": 23,
     "BevAant": 55329,
     "Gemeente": "Pijnacker-Nootdorp",
     "Gemnr": 1926,
-    "GemiddeldOverBev": 43.4
+    "GemiddeldOverBev": 41.6
   },
   {
-    "Aantal": 52,
+    "Aantal": 48,
     "BevAant": 81233,
     "Gemeente": "Purmerend",
     "Gemnr": 439,
-    "GemiddeldOverBev": 64
+    "GemiddeldOverBev": 59.1
   },
   {
     "Aantal": 6,
@@ -1680,11 +1680,11 @@
     "GemiddeldOverBev": 24.9
   },
   {
-    "Aantal": 15,
+    "Aantal": 13,
     "BevAant": 37709,
     "Gemeente": "Raalte",
     "Gemnr": 177,
-    "GemiddeldOverBev": 39.8
+    "GemiddeldOverBev": 34.5
   },
   {
     "Aantal": 7,
@@ -1694,11 +1694,11 @@
     "GemiddeldOverBev": 30.8
   },
   {
-    "Aantal": 18,
+    "Aantal": 17,
     "BevAant": 31404,
     "Gemeente": "Renkum",
     "Gemnr": 274,
-    "GemiddeldOverBev": 57.3
+    "GemiddeldOverBev": 54.1
   },
   {
     "Aantal": 1,
@@ -1708,60 +1708,60 @@
     "GemiddeldOverBev": 18.4
   },
   {
-    "Aantal": 5,
+    "Aantal": 4,
     "BevAant": 13110,
     "Gemeente": "Reusel-De Mierden",
     "Gemnr": 1667,
-    "GemiddeldOverBev": 38.1
-  },
-  {
-    "Aantal": 30,
-    "BevAant": 43736,
-    "Gemeente": "Rheden",
-    "Gemnr": 275,
-    "GemiddeldOverBev": 68.6
-  },
-  {
-    "Aantal": 6,
-    "BevAant": 20125,
-    "Gemeente": "Rhenen",
-    "Gemnr": 340,
-    "GemiddeldOverBev": 29.8
+    "GemiddeldOverBev": 30.5
   },
   {
     "Aantal": 27,
+    "BevAant": 43736,
+    "Gemeente": "Rheden",
+    "Gemnr": 275,
+    "GemiddeldOverBev": 61.7
+  },
+  {
+    "Aantal": 5,
+    "BevAant": 20125,
+    "Gemeente": "Rhenen",
+    "Gemnr": 340,
+    "GemiddeldOverBev": 24.8
+  },
+  {
+    "Aantal": 19,
     "BevAant": 46204,
     "Gemeente": "Ridderkerk",
     "Gemnr": 597,
-    "GemiddeldOverBev": 58.4
+    "GemiddeldOverBev": 41.1
   },
   {
-    "Aantal": 17,
+    "Aantal": 13,
     "BevAant": 38178,
     "Gemeente": "Rijssen-Holten",
     "Gemnr": 1742,
-    "GemiddeldOverBev": 44.5
-  },
-  {
-    "Aantal": 16,
-    "BevAant": 54432,
-    "Gemeente": "Rijswijk",
-    "Gemnr": 603,
-    "GemiddeldOverBev": 29.4
+    "GemiddeldOverBev": 34.1
   },
   {
     "Aantal": 14,
+    "BevAant": 54432,
+    "Gemeente": "Rijswijk",
+    "Gemnr": 603,
+    "GemiddeldOverBev": 25.7
+  },
+  {
+    "Aantal": 13,
     "BevAant": 20572,
     "Gemeente": "Roerdalen",
     "Gemnr": 1669,
-    "GemiddeldOverBev": 68.1
+    "GemiddeldOverBev": 63.2
   },
   {
-    "Aantal": 32,
+    "Aantal": 31,
     "BevAant": 58254,
     "Gemeente": "Roermond",
     "Gemnr": 957,
-    "GemiddeldOverBev": 54.9
+    "GemiddeldOverBev": 53.2
   },
   {
     "Aantal": 25,
@@ -1771,11 +1771,11 @@
     "GemiddeldOverBev": 32.4
   },
   {
-    "Aantal": 308,
+    "Aantal": 249,
     "BevAant": 651376,
     "Gemeente": "Rotterdam",
     "Gemnr": 599,
-    "GemiddeldOverBev": 47.3
+    "GemiddeldOverBev": 38.2
   },
   {
     "Aantal": 2,
@@ -1799,18 +1799,18 @@
     "GemiddeldOverBev": 28
   },
   {
-    "Aantal": 5,
+    "Aantal": 4,
     "BevAant": 9880,
     "Gemeente": "Scherpenzeel",
     "Gemnr": 279,
-    "GemiddeldOverBev": 50.6
+    "GemiddeldOverBev": 40.5
   },
   {
-    "Aantal": 22,
+    "Aantal": 19,
     "BevAant": 78739,
     "Gemeente": "Schiedam",
     "Gemnr": 606,
-    "GemiddeldOverBev": 27.9
+    "GemiddeldOverBev": 24.1
   },
   {
     "Aantal": 0,
@@ -1827,32 +1827,32 @@
     "GemiddeldOverBev": 26.6
   },
   {
-    "Aantal": 11,
+    "Aantal": 10,
     "BevAant": 10552,
     "Gemeente": "Simpelveld",
     "Gemnr": 965,
-    "GemiddeldOverBev": 104.2
+    "GemiddeldOverBev": 94.8
   },
   {
-    "Aantal": 21,
+    "Aantal": 18,
     "BevAant": 11672,
     "Gemeente": "Sint Anthonis",
     "Gemnr": 1702,
-    "GemiddeldOverBev": 179.9
+    "GemiddeldOverBev": 154.2
   },
   {
-    "Aantal": 29,
+    "Aantal": 28,
     "BevAant": 29203,
     "Gemeente": "Sint-Michielsgestel",
     "Gemnr": 845,
-    "GemiddeldOverBev": 99.3
+    "GemiddeldOverBev": 95.9
   },
   {
-    "Aantal": 102,
+    "Aantal": 98,
     "BevAant": 92422,
     "Gemeente": "Sittard-Geleen",
     "Gemnr": 1883,
-    "GemiddeldOverBev": 110.4
+    "GemiddeldOverBev": 106
   },
   {
     "Aantal": 6,
@@ -1869,11 +1869,11 @@
     "GemiddeldOverBev": 25.8
   },
   {
-    "Aantal": 7,
+    "Aantal": 5,
     "BevAant": 56154,
     "Gemeente": "Smallingerland",
     "Gemnr": 90,
-    "GemiddeldOverBev": 12.5
+    "GemiddeldOverBev": 8.9
   },
   {
     "Aantal": 28,
@@ -1883,18 +1883,18 @@
     "GemiddeldOverBev": 60.1
   },
   {
-    "Aantal": 22,
+    "Aantal": 19,
     "BevAant": 19376,
     "Gemeente": "Someren",
     "Gemnr": 847,
-    "GemiddeldOverBev": 113.5
+    "GemiddeldOverBev": 98.1
   },
   {
-    "Aantal": 22,
+    "Aantal": 20,
     "BevAant": 17321,
     "Gemeente": "Son en Breugel",
     "Gemnr": 848,
-    "GemiddeldOverBev": 127
+    "GemiddeldOverBev": 115.5
   },
   {
     "Aantal": 1,
@@ -1932,32 +1932,32 @@
     "GemiddeldOverBev": 18.1
   },
   {
-    "Aantal": 31,
+    "Aantal": 29,
     "BevAant": 25000,
     "Gemeente": "Stein",
     "Gemnr": 971,
-    "GemiddeldOverBev": 124
+    "GemiddeldOverBev": 116
   },
   {
-    "Aantal": 31,
+    "Aantal": 30,
     "BevAant": 64928,
     "Gemeente": "Stichtse Vecht",
     "Gemnr": 1904,
-    "GemiddeldOverBev": 47.7
+    "GemiddeldOverBev": 46.2
   },
   {
-    "Aantal": 19,
+    "Aantal": 15,
     "BevAant": 89987,
     "Gemeente": "Súdwest-Fryslân",
     "Gemnr": 1900,
-    "GemiddeldOverBev": 21.1
+    "GemiddeldOverBev": 16.7
   },
   {
-    "Aantal": 17,
+    "Aantal": 16,
     "BevAant": 54438,
     "Gemeente": "Terneuzen",
     "Gemnr": 715,
-    "GemiddeldOverBev": 31.2
+    "GemiddeldOverBev": 29.4
   },
   {
     "Aantal": 0,
@@ -1981,32 +1981,32 @@
     "GemiddeldOverBev": 29.4
   },
   {
-    "Aantal": 25,
+    "Aantal": 20,
     "BevAant": 25758,
     "Gemeente": "Tholen",
     "Gemnr": 716,
-    "GemiddeldOverBev": 97.1
+    "GemiddeldOverBev": 77.6
   },
   {
-    "Aantal": 27,
+    "Aantal": 23,
     "BevAant": 42161,
     "Gemeente": "Tiel",
     "Gemnr": 281,
-    "GemiddeldOverBev": 64
+    "GemiddeldOverBev": 54.6
   },
   {
-    "Aantal": 284,
+    "Aantal": 254,
     "BevAant": 219800,
     "Gemeente": "Tilburg",
     "Gemnr": 855,
-    "GemiddeldOverBev": 129.2
+    "GemiddeldOverBev": 115.6
   },
   {
-    "Aantal": 12,
+    "Aantal": 11,
     "BevAant": 21279,
     "Gemeente": "Tubbergen",
     "Gemnr": 183,
-    "GemiddeldOverBev": 56.4
+    "GemiddeldOverBev": 51.7
   },
   {
     "Aantal": 5,
@@ -2023,18 +2023,18 @@
     "GemiddeldOverBev": 47.2
   },
   {
-    "Aantal": 4,
+    "Aantal": 3,
     "BevAant": 32046,
     "Gemeente": "Tytsjerksteradiel",
     "Gemnr": 737,
-    "GemiddeldOverBev": 12.5
+    "GemiddeldOverBev": 9.4
   },
   {
-    "Aantal": 130,
+    "Aantal": 123,
     "BevAant": 42122,
     "Gemeente": "Uden",
     "Gemnr": 856,
-    "GemiddeldOverBev": 308.6
+    "GemiddeldOverBev": 292
   },
   {
     "Aantal": 7,
@@ -2044,32 +2044,32 @@
     "GemiddeldOverBev": 51.3
   },
   {
-    "Aantal": 16,
+    "Aantal": 11,
     "BevAant": 29466,
     "Gemeente": "Uithoorn",
     "Gemnr": 451,
-    "GemiddeldOverBev": 54.3
+    "GemiddeldOverBev": 37.3
   },
   {
-    "Aantal": 10,
+    "Aantal": 9,
     "BevAant": 21033,
     "Gemeente": "Urk",
     "Gemnr": 184,
-    "GemiddeldOverBev": 47.5
+    "GemiddeldOverBev": 42.8
   },
   {
-    "Aantal": 265,
+    "Aantal": 243,
     "BevAant": 357694,
     "Gemeente": "Utrecht",
     "Gemnr": 344,
-    "GemiddeldOverBev": 74.1
+    "GemiddeldOverBev": 67.9
   },
   {
-    "Aantal": 25,
+    "Aantal": 22,
     "BevAant": 49601,
     "Gemeente": "Utrechtse Heuvelrug",
     "Gemnr": 1581,
-    "GemiddeldOverBev": 50.4
+    "GemiddeldOverBev": 44.4
   },
   {
     "Aantal": 6,
@@ -2079,81 +2079,81 @@
     "GemiddeldOverBev": 59.4
   },
   {
-    "Aantal": 12,
+    "Aantal": 11,
     "BevAant": 16360,
     "Gemeente": "Valkenburg aan de Geul",
     "Gemnr": 994,
-    "GemiddeldOverBev": 73.3
+    "GemiddeldOverBev": 67.2
   },
   {
-    "Aantal": 26,
+    "Aantal": 20,
     "BevAant": 31200,
     "Gemeente": "Valkenswaard",
     "Gemnr": 858,
-    "GemiddeldOverBev": 83.3
+    "GemiddeldOverBev": 64.1
   },
   {
-    "Aantal": 2,
+    "Aantal": 1,
     "BevAant": 27387,
     "Gemeente": "Veendam",
     "Gemnr": 47,
-    "GemiddeldOverBev": 7.3
+    "GemiddeldOverBev": 3.7
   },
   {
-    "Aantal": 14,
+    "Aantal": 13,
     "BevAant": 66491,
     "Gemeente": "Veenendaal",
     "Gemnr": 345,
-    "GemiddeldOverBev": 21.1
+    "GemiddeldOverBev": 19.6
   },
   {
-    "Aantal": 9,
+    "Aantal": 8,
     "BevAant": 21885,
     "Gemeente": "Veere",
     "Gemnr": 717,
-    "GemiddeldOverBev": 41.1
+    "GemiddeldOverBev": 36.6
   },
   {
-    "Aantal": 24,
+    "Aantal": 22,
     "BevAant": 45458,
     "Gemeente": "Veldhoven",
     "Gemnr": 861,
-    "GemiddeldOverBev": 52.8
+    "GemiddeldOverBev": 48.4
   },
   {
-    "Aantal": 31,
+    "Aantal": 25,
     "BevAant": 68660,
     "Gemeente": "Velsen",
     "Gemnr": 453,
-    "GemiddeldOverBev": 45.2
+    "GemiddeldOverBev": 36.4
   },
   {
-    "Aantal": 71,
+    "Aantal": 67,
     "BevAant": 101797,
     "Gemeente": "Venlo",
     "Gemnr": 983,
-    "GemiddeldOverBev": 69.7
+    "GemiddeldOverBev": 65.8
   },
   {
-    "Aantal": 26,
+    "Aantal": 21,
     "BevAant": 43604,
     "Gemeente": "Venray",
     "Gemnr": 984,
-    "GemiddeldOverBev": 59.6
+    "GemiddeldOverBev": 48.2
   },
   {
-    "Aantal": 27,
+    "Aantal": 24,
     "BevAant": 56816,
     "Gemeente": "Vijfheerenlanden",
     "Gemnr": 1961,
-    "GemiddeldOverBev": 47.5
+    "GemiddeldOverBev": 42.2
   },
   {
-    "Aantal": 30,
+    "Aantal": 28,
     "BevAant": 73445,
     "Gemeente": "Vlaardingen",
     "Gemnr": 622,
-    "GemiddeldOverBev": 40.8
+    "GemiddeldOverBev": 38.1
   },
   {
     "Aantal": 0,
@@ -2163,39 +2163,39 @@
     "GemiddeldOverBev": 0
   },
   {
-    "Aantal": 10,
+    "Aantal": 8,
     "BevAant": 44365,
     "Gemeente": "Vlissingen",
     "Gemnr": 718,
-    "GemiddeldOverBev": 22.5
-  },
-  {
-    "Aantal": 8,
-    "BevAant": 12471,
-    "Gemeente": "Voerendaal",
-    "Gemnr": 986,
-    "GemiddeldOverBev": 64.1
+    "GemiddeldOverBev": 18
   },
   {
     "Aantal": 7,
+    "BevAant": 12471,
+    "Gemeente": "Voerendaal",
+    "Gemnr": 986,
+    "GemiddeldOverBev": 56.1
+  },
+  {
+    "Aantal": 6,
     "BevAant": 25603,
     "Gemeente": "Voorschoten",
     "Gemnr": 626,
-    "GemiddeldOverBev": 27.3
+    "GemiddeldOverBev": 23.4
   },
   {
-    "Aantal": 15,
+    "Aantal": 13,
     "BevAant": 24546,
     "Gemeente": "Voorst",
     "Gemnr": 285,
-    "GemiddeldOverBev": 61.1
+    "GemiddeldOverBev": 53
   },
   {
-    "Aantal": 31,
+    "Aantal": 29,
     "BevAant": 26554,
     "Gemeente": "Vught",
     "Gemnr": 865,
-    "GemiddeldOverBev": 116.7
+    "GemiddeldOverBev": 109.2
   },
   {
     "Aantal": 3,
@@ -2212,25 +2212,25 @@
     "GemiddeldOverBev": 34.4
   },
   {
-    "Aantal": 54,
+    "Aantal": 46,
     "BevAant": 48620,
     "Gemeente": "Waalwijk",
     "Gemnr": 867,
-    "GemiddeldOverBev": 111.1
-  },
-  {
-    "Aantal": 8,
-    "BevAant": 29293,
-    "Gemeente": "Waddinxveen",
-    "Gemnr": 627,
-    "GemiddeldOverBev": 27.3
+    "GemiddeldOverBev": 94.6
   },
   {
     "Aantal": 7,
+    "BevAant": 29293,
+    "Gemeente": "Waddinxveen",
+    "Gemnr": 627,
+    "GemiddeldOverBev": 23.9
+  },
+  {
+    "Aantal": 5,
     "BevAant": 39673,
     "Gemeente": "Wageningen",
     "Gemnr": 289,
-    "GemiddeldOverBev": 17.6
+    "GemiddeldOverBev": 12.6
   },
   {
     "Aantal": 6,
@@ -2247,53 +2247,53 @@
     "GemiddeldOverBev": 63.1
   },
   {
-    "Aantal": 36,
+    "Aantal": 27,
     "BevAant": 50107,
     "Gemeente": "Weert",
     "Gemnr": 988,
-    "GemiddeldOverBev": 71.8
+    "GemiddeldOverBev": 53.9
   },
   {
-    "Aantal": 10,
+    "Aantal": 8,
     "BevAant": 19729,
     "Gemeente": "Weesp",
     "Gemnr": 457,
-    "GemiddeldOverBev": 50.7
+    "GemiddeldOverBev": 40.5
   },
   {
-    "Aantal": 34,
+    "Aantal": 24,
     "BevAant": 51198,
     "Gemeente": "West Betuwe",
     "Gemnr": 1960,
-    "GemiddeldOverBev": 66.4
+    "GemiddeldOverBev": 46.9
   },
   {
-    "Aantal": 15,
+    "Aantal": 13,
     "BevAant": 19320,
     "Gemeente": "West Maas en Waal",
     "Gemnr": 668,
-    "GemiddeldOverBev": 77.6
+    "GemiddeldOverBev": 67.3
   },
   {
-    "Aantal": 16,
+    "Aantal": 15,
     "BevAant": 63375,
     "Gemeente": "Westerkwartier",
     "Gemnr": 1969,
-    "GemiddeldOverBev": 25.2
+    "GemiddeldOverBev": 23.7
   },
   {
-    "Aantal": 4,
+    "Aantal": 3,
     "BevAant": 19460,
     "Gemeente": "Westerveld",
     "Gemnr": 1701,
-    "GemiddeldOverBev": 20.6
+    "GemiddeldOverBev": 15.4
   },
   {
-    "Aantal": 4,
+    "Aantal": 2,
     "BevAant": 14973,
     "Gemeente": "Westervoort",
     "Gemnr": 293,
-    "GemiddeldOverBev": 26.7
+    "GemiddeldOverBev": 13.4
   },
   {
     "Aantal": 3,
@@ -2303,11 +2303,11 @@
     "GemiddeldOverBev": 11.6
   },
   {
-    "Aantal": 45,
+    "Aantal": 38,
     "BevAant": 110357,
     "Gemeente": "Westland",
     "Gemnr": 1783,
-    "GemiddeldOverBev": 40.8
+    "GemiddeldOverBev": 34.4
   },
   {
     "Aantal": 2,
@@ -2317,39 +2317,39 @@
     "GemiddeldOverBev": 7.7
   },
   {
-    "Aantal": 11,
+    "Aantal": 9,
     "BevAant": 14728,
     "Gemeente": "Westvoorne",
     "Gemnr": 614,
-    "GemiddeldOverBev": 74.7
+    "GemiddeldOverBev": 61.1
   },
   {
-    "Aantal": 7,
+    "Aantal": 4,
     "BevAant": 24440,
     "Gemeente": "Wierden",
     "Gemnr": 189,
-    "GemiddeldOverBev": 28.6
+    "GemiddeldOverBev": 16.4
   },
   {
-    "Aantal": 35,
+    "Aantal": 30,
     "BevAant": 41124,
     "Gemeente": "Wijchen",
     "Gemnr": 296,
-    "GemiddeldOverBev": 85.1
+    "GemiddeldOverBev": 73
   },
   {
-    "Aantal": 5,
+    "Aantal": 4,
     "BevAant": 24360,
     "Gemeente": "Wijdemeren",
     "Gemnr": 1696,
-    "GemiddeldOverBev": 20.5
+    "GemiddeldOverBev": 16.4
   },
   {
-    "Aantal": 9,
+    "Aantal": 7,
     "BevAant": 23910,
     "Gemeente": "Wijk bij Duurstede",
     "Gemnr": 352,
-    "GemiddeldOverBev": 37.6
+    "GemiddeldOverBev": 29.3
   },
   {
     "Aantal": 3,
@@ -2359,25 +2359,25 @@
     "GemiddeldOverBev": 10.4
   },
   {
-    "Aantal": 6,
+    "Aantal": 5,
     "BevAant": 21883,
     "Gemeente": "Woensdrecht",
     "Gemnr": 873,
-    "GemiddeldOverBev": 27.4
+    "GemiddeldOverBev": 22.8
   },
   {
-    "Aantal": 34,
+    "Aantal": 25,
     "BevAant": 52294,
     "Gemeente": "Woerden",
     "Gemnr": 632,
-    "GemiddeldOverBev": 65
+    "GemiddeldOverBev": 47.8
   },
   {
-    "Aantal": 7,
+    "Aantal": 6,
     "BevAant": 16299,
     "Gemeente": "Wormerland",
     "Gemnr": 880,
-    "GemiddeldOverBev": 42.9
+    "GemiddeldOverBev": 36.8
   },
   {
     "Aantal": 6,
@@ -2387,25 +2387,25 @@
     "GemiddeldOverBev": 44.9
   },
   {
-    "Aantal": 50,
+    "Aantal": 46,
     "BevAant": 156711,
     "Gemeente": "Zaanstad",
     "Gemnr": 479,
-    "GemiddeldOverBev": 31.9
+    "GemiddeldOverBev": 29.4
   },
   {
-    "Aantal": 13,
+    "Aantal": 9,
     "BevAant": 28901,
     "Gemeente": "Zaltbommel",
     "Gemnr": 297,
-    "GemiddeldOverBev": 45
+    "GemiddeldOverBev": 31.1
   },
   {
-    "Aantal": 7,
+    "Aantal": 6,
     "BevAant": 17116,
     "Gemeente": "Zandvoort",
     "Gemnr": 473,
-    "GemiddeldOverBev": 40.9
+    "GemiddeldOverBev": 35.1
   },
   {
     "Aantal": 7,
@@ -2415,25 +2415,25 @@
     "GemiddeldOverBev": 30.9
   },
   {
-    "Aantal": 40,
+    "Aantal": 34,
     "BevAant": 64932,
     "Gemeente": "Zeist",
     "Gemnr": 355,
-    "GemiddeldOverBev": 61.6
+    "GemiddeldOverBev": 52.4
   },
   {
-    "Aantal": 15,
+    "Aantal": 12,
     "BevAant": 43740,
     "Gemeente": "Zevenaar",
     "Gemnr": 299,
-    "GemiddeldOverBev": 34.3
+    "GemiddeldOverBev": 27.4
   },
   {
-    "Aantal": 21,
+    "Aantal": 17,
     "BevAant": 125283,
     "Gemeente": "Zoetermeer",
     "Gemnr": 637,
-    "GemiddeldOverBev": 16.8
+    "GemiddeldOverBev": 13.6
   },
   {
     "Aantal": 2,
@@ -2443,32 +2443,32 @@
     "GemiddeldOverBev": 23.2
   },
   {
-    "Aantal": 15,
+    "Aantal": 11,
     "BevAant": 43894,
     "Gemeente": "Zuidplas",
     "Gemnr": 1892,
-    "GemiddeldOverBev": 34.2
+    "GemiddeldOverBev": 25.1
   },
   {
-    "Aantal": 23,
+    "Aantal": 17,
     "BevAant": 21821,
     "Gemeente": "Zundert",
     "Gemnr": 879,
-    "GemiddeldOverBev": 105.4
+    "GemiddeldOverBev": 77.9
   },
   {
-    "Aantal": 11,
+    "Aantal": 10,
     "BevAant": 47942,
     "Gemeente": "Zutphen",
     "Gemnr": 301,
-    "GemiddeldOverBev": 22.9
+    "GemiddeldOverBev": 20.9
   },
   {
-    "Aantal": 38,
+    "Aantal": 36,
     "BevAant": 22690,
     "Gemeente": "Zwartewaterland",
     "Gemnr": 1896,
-    "GemiddeldOverBev": 167.5
+    "GemiddeldOverBev": 158.7
   },
   {
     "Aantal": 13,
@@ -2478,17 +2478,17 @@
     "GemiddeldOverBev": 29.1
   },
   {
-    "Aantal": 68,
+    "Aantal": 63,
     "BevAant": 128831,
     "Gemeente": "Zwolle",
     "Gemnr": 193,
-    "GemiddeldOverBev": 52.8
+    "GemiddeldOverBev": 48.9
   },
   {
-    "Aantal": 161,
+    "Aantal": 124,
     "BevAant": 545163,
     "Gemeente": "s-Gravenhage",
     "Gemnr": 518,
-    "GemiddeldOverBev": 29.5
+    "GemiddeldOverBev": 22.7
   }
 ]
