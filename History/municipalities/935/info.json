@@ -3,7 +3,7 @@
   "population": 121565,
   "municipalityNr": 935,
   "csv": "maastricht.csv",
-  "csvLines": 31,
+  "csvLines": 32,
   "json": "maastricht.json",
-  "jsonLength": 30
+  "jsonLength": 31
 }

@@ -238,5 +238,13 @@
     "Rise": 1,
     "RiseInAvgOverPopulation": 4.8,
     "RiseRelativeToDate": "03-26-2020"
+  },
+  {
+    "Date": "03-28-2020",
+    "Amount": 5,
+    "AvgOverPop": 24.1,
+    "Rise": 0,
+    "RiseInAvgOverPopulation": 0,
+    "RiseRelativeToDate": "03-27-2020"
   }
 ]

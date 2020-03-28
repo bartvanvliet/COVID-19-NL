@@ -3,7 +3,7 @@
   "population": 32768,
   "municipalityNr": 556,
   "csv": "maassluis.csv",
-  "csvLines": 31,
+  "csvLines": 32,
   "json": "maassluis.json",
-  "jsonLength": 30
+  "jsonLength": 31
 }

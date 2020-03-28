@@ -3,7 +3,7 @@
   "population": 11488,
   "municipalityNr": 415,
   "csv": "landsmeer.csv",
-  "csvLines": 31,
+  "csvLines": 32,
   "json": "landsmeer.json",
-  "jsonLength": 30
+  "jsonLength": 31
 }

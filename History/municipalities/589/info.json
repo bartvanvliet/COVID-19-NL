@@ -3,7 +3,7 @@
   "population": 10201,
   "municipalityNr": 589,
   "csv": "oudewater.csv",
-  "csvLines": 31,
+  "csvLines": 32,
   "json": "oudewater.json",
-  "jsonLength": 30
+  "jsonLength": 31
 }
