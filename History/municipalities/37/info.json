@@ -3,7 +3,7 @@
   "population": 31789,
   "municipalityNr": 37,
   "csv": "stadskanaal.csv",
-  "csvLines": 32,
+  "csvLines": 33,
   "json": "stadskanaal.json",
-  "jsonLength": 31
+  "jsonLength": 32
 }

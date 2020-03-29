@@ -3,7 +3,7 @@
   "population": 10092,
   "municipalityNr": 981,
   "csv": "vaals.csv",
-  "csvLines": 32,
+  "csvLines": 33,
   "json": "vaals.json",
-  "jsonLength": 31
+  "jsonLength": 32
 }

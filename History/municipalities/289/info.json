@@ -3,7 +3,7 @@
   "population": 38774,
   "municipalityNr": 289,
   "csv": "wageningen.csv",
-  "csvLines": 32,
+  "csvLines": 33,
   "json": "wageningen.json",
-  "jsonLength": 31
+  "jsonLength": 32
 }

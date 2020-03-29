@@ -3,7 +3,7 @@
   "population": 217259,
   "municipalityNr": 855,
   "csv": "tilburg.csv",
-  "csvLines": 32,
+  "csvLines": 33,
   "json": "tilburg.json",
-  "jsonLength": 31
+  "jsonLength": 32
 }
