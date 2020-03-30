@@ -3,7 +3,7 @@
   "population": 33145,
   "municipalityNr": 232,
   "csv": "epe.csv",
-  "csvLines": 33,
+  "csvLines": 34,
   "json": "epe.json",
-  "jsonLength": 32
+  "jsonLength": 33
 }

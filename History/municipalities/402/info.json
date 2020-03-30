@@ -3,7 +3,7 @@
   "population": 90238,
   "municipalityNr": 402,
   "csv": "hilversum.csv",
-  "csvLines": 33,
+  "csvLines": 34,
   "json": "hilversum.json",
-  "jsonLength": 32
+  "jsonLength": 33
 }
