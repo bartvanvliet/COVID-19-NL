@@ -3,7 +3,7 @@
   "population": 80815,
   "municipalityNr": 1948,
   "csv": "meierijstad.csv",
-  "csvLines": 34,
+  "csvLines": 35,
   "json": "meierijstad.json",
-  "jsonLength": 33
+  "jsonLength": 34
 }

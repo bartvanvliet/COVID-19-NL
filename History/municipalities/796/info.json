@@ -1,9 +1,9 @@
 {
-  "municipality": "'s-Hertogenbosch",
+  "municipality": "s-Hertogenbosch",
   "population": 154205,
   "municipalityNr": 796,
   "csv": "s-hertogenbosch.csv",
-  "csvLines": 34,
+  "csvLines": 35,
   "json": "s-hertogenbosch.json",
-  "jsonLength": 33
+  "jsonLength": 34
 }

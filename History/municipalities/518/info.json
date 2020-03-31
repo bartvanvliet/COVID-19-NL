@@ -1,9 +1,9 @@
 {
-  "municipality": "'s-Gravenhage",
+  "municipality": "s-Gravenhage",
   "population": 537833,
   "municipalityNr": 518,
   "csv": "s-gravenhage.csv",
-  "csvLines": 34,
+  "csvLines": 35,
   "json": "s-gravenhage.json",
-  "jsonLength": 33
+  "jsonLength": 34
 }
