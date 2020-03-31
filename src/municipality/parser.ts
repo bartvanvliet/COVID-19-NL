@@ -29,7 +29,10 @@ function clean(items: any[]) {
  * @returns {{headers: string[], lines: string[]}}
  */
 export async function parse(data: string) {
-    const lines: string[] = data.trim().split('\n');
+    const lines: string[] = data.trim()
+        .split('\'s-') // Replace for 's- ('s-Gravenhage & 's-Hertogenbosch)
+        .join('s-')
+        .split('\n');
     const headers = lines[ 0 ]
         // For some reason the parser couldn't handle dots so we had to replace this with something that made more sense.
         .split('Aantal per 100.000 inwoners')
