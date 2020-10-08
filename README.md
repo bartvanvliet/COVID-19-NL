@@ -44,7 +44,7 @@ Currently it outputs in 3 formats.
 
 ### International CSV
 
-The RIVM csv is in has `;` delimiter. We convert this CSV into a "international" format. Which is with the `,` delimiter. You can find the `;` delimimter below.
+The RIVM csv is in has `;` delimiter. We convert this CSV into a "international" format. Which is with the `,` delimiter. You can find the `;` delimiter below.
 
 Examples:
 - Latest: [/Municipalities/international-latest.csv](https://github.com/Kapulara/COVID-19-NL/tree/master/Municipalities/international-latest.csv)
