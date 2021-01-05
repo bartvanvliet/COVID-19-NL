@@ -15,7 +15,7 @@
     "build:watch": "tsc --project tsconfig.json --watch"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "cheerio": "^1.0.0-rc.3",
     "cron": "^1.8.2",
     "csvtojson": "^2.0.10",
